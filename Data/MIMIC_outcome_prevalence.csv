@@ -1,0 +1,1282 @@
+ICD,num_pts_last_visit,if_last_then_num_pts_prev_visits,if_last_then_num_seq_prev_visits,SHORT_TITLE,LONG_TITLE
+ICD_4019,2689,1936,2680,Hypertension NOS,Unspecified essential hypertension
+ICD_4280,2570,1756,3066,CHF NOS,"Congestive heart failure, unspecified"
+ICD_42731,2182,1584,2501,Atrial fibrillation,Atrial fibrillation
+ICD_5849,1777,763,1117,Acute kidney failure NOS,"Acute kidney failure, unspecified"
+ICD_2724,1471,776,1073,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia
+ICD_25000,1455,1035,1491,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+ICD_41401,1438,981,1417,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery
+ICD_51881,1307,423,569,Acute respiratry failure,Acute respiratory failure
+ICD_5990,1185,401,536,Urin tract infection NOS,"Urinary tract infection, site not specified"
+ICD_53081,1066,592,911,Esophageal reflux,Esophageal reflux
+ICD_99592,944,205,269,Severe sepsis,Severe sepsis
+ICD_V4581,930,426,654,Aortocoronary bypass,Aortocoronary bypass status
+ICD_2449,924,650,1031,Hypothyroidism NOS,Unspecified acquired hypothyroidism
+ICD_486,902,228,266,"Pneumonia, organism NOS","Pneumonia, organism unspecified"
+ICD_2859,864,212,246,Anemia NOS,"Anemia, unspecified"
+ICD_2762,849,199,239,Acidosis,Acidosis
+ICD_0389,839,167,213,Septicemia NOS,Unspecified septicemia
+ICD_496,826,471,718,Chr airway obstruct NEC,"Chronic airway obstruction, not elsewhere classified"
+ICD_V5861,821,324,485,Long-term use anticoagul,Long-term (current) use of anticoagulants
+ICD_40390,818,372,515,Hy kid NOS w cr kid I-IV,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+ICD_5859,770,328,430,Chronic kidney dis NOS,"Chronic kidney disease, unspecified"
+ICD_2720,712,357,461,Pure hypercholesterolem,Pure hypercholesterolemia
+ICD_412,667,258,402,Old myocardial infarct,Old myocardial infarction
+ICD_2851,661,181,219,Ac posthemorrhag anemia,Acute posthemorrhagic anemia
+ICD_311,652,255,392,Depressive disorder NEC,"Depressive disorder, not elsewhere classified"
+ICD_5070,621,170,223,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus
+ICD_78552,619,106,125,Septic shock,Septic shock
+ICD_V4582,613,291,397,Status-post ptca,Percutaneous transluminal coronary angioplasty status
+ICD_40391,612,389,766,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+ICD_V5867,601,276,453,Long-term use of insulin,Long-term (current) use of insulin
+ICD_2761,576,131,159,Hyposmolality,Hyposmolality and/or hyponatremia
+ICD_V1582,545,179,212,History of tobacco use,Personal history of tobacco use
+ICD_2875,535,131,174,Thrombocytopenia NOS,"Thrombocytopenia, unspecified"
+ICD_5856,526,336,809,End stage renal disease,End stage renal disease
+ICD_32723,494,302,546,Obstructive sleep apnea,Obstructive sleep apnea (adult)(pediatric)
+ICD_5119,484,99,121,Pleural effusion NOS,Unspecified pleural effusion
+ICD_41400,451,128,175,Cor ath unsp vsl ntv/gft,"Coronary atherosclerosis of unspecified type of vessel, native or graft"
+ICD_V1251,437,161,267,Hx-ven thrombosis/embols,Personal history of venous thrombosis and embolism
+ICD_4168,434,174,296,Chr pulmon heart dis NEC,Other chronic pulmonary heart diseases
+ICD_2767,432,105,166,Hyperpotassemia,Hyperpotassemia
+ICD_5845,429,67,75,"Ac kidny fail, tubr necr",Acute kidney failure with lesion of tubular necrosis
+ICD_2760,418,91,129,Hyperosmolality,Hyperosmolality and/or hypernatremia
+ICD_2749,406,236,332,Gout NOS,"Gout, unspecified"
+ICD_3051,402,209,285,Tobacco use disorder,Tobacco use disorder
+ICD_V4986,398,67,81,Do not resusctate status,Do not resuscitate status
+ICD_4240,395,167,210,Mitral valve disorder,Mitral valve disorders
+ICD_4589,380,57,66,Hypotension NOS,"Hypotension, unspecified"
+ICD_41071,370,88,93,"Subendo infarct, initial","Subendocardial infarction, initial episode of care"
+ICD_70703,369,117,187,"Pressure ulcer, low back","Pressure ulcer, lower back"
+ICD_42789,364,70,92,Cardiac dysrhythmias NEC,Other specified cardiac dysrhythmias
+ICD_00845,359,78,95,Int inf clstrdium dfcile,Intestinal infection due to Clostridium difficile
+ICD_42833,355,105,155,Ac on chr diast hrt fail,Acute on chronic diastolic heart failure
+ICD_28521,345,148,271,Anemia in chr kidney dis,Anemia in chronic kidney disease
+ICD_73300,329,200,311,Osteoporosis NOS,"Osteoporosis, unspecified"
+ICD_4254,328,178,302,Prim cardiomyopathy NEC,Other primary cardiomyopathies
+ICD_42822,327,102,149,Chr systolic hrt failure,Chronic systolic heart failure
+ICD_3572,314,185,383,Neuropathy in diabetes,Polyneuropathy in diabetes
+ICD_V4501,314,170,239,Status cardiac pacemaker,Cardiac pacemaker in situ
+ICD_49390,313,197,294,Asthma NOS,"Asthma, unspecified type, unspecified"
+ICD_4439,305,113,155,Periph vascular dis NOS,"Peripheral vascular disease, unspecified"
+ICD_45829,300,34,34,Iatrogenc hypotnsion NEC,Other iatrogenic hypotension
+ICD_42832,299,95,147,Chr diastolic hrt fail,Chronic diastolic heart failure
+ICD_5180,293,45,49,Pulmonary collapse,Pulmonary collapse
+ICD_5789,292,40,45,Gastrointest hemorr NOS,"Hemorrhage of gastrointestinal tract, unspecified"
+ICD_E8798,291,46,58,Abn react-procedure NEC,"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+ICD_4241,288,162,211,Aortic valve disorder,Aortic valve disorders
+ICD_4271,284,77,102,Parox ventric tachycard,Paroxysmal ventricular tachycardia
+ICD_99591,279,32,37,Sepsis,Sepsis
+ICD_78039,275,102,150,Convulsions NEC,Other convulsions
+ICD_99859,273,44,51,Other postop infection,Other postoperative infection
+ICD_42823,270,95,135,Ac on chr syst hrt fail,Acute on chronic systolic heart failure
+ICD_7907,270,32,41,Bacteremia,Bacteremia
+ICD_27652,269,17,19,Hypovolemia,Hypovolemia
+ICD_V667,269,4,4,Encountr palliative care,Encounter for palliative care
+ICD_60000,265,124,157,BPH w/o urinary obs/LUTS,Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS)
+ICD_27651,262,33,41,Dehydration,Dehydration
+ICD_2930,257,29,32,Delirium d/t other cond,Delirium due to conditions classified elsewhere
+ICD_79902,253,32,44,Hypoxemia,Hypoxemia
+ICD_4275,253,15,15,Cardiac arrest,Cardiac arrest
+ICD_V1254,251,78,92,Hx TIA/stroke w/o resid,"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits"
+ICD_34590,244,115,198,Epilep NOS w/o intr epil,"Epilepsy, unspecified, without mention of intractable epilepsy"
+ICD_30000,244,69,92,Anxiety state NOS,"Anxiety state, unspecified"
+ICD_V440,244,83,143,Tracheostomy status,Tracheostomy status
+ICD_2768,243,32,34,Hypopotassemia,Hypopotassemia
+ICD_V433,241,93,157,Heart valve replac NEC,Heart valve replaced by other means
+ICD_49121,240,116,208,Obs chr bronc w(ac) exac,Obstructive chronic bronchitis with (acute) exacerbation
+ICD_5715,238,171,238,Cirrhosis of liver NOS,Cirrhosis of liver without mention of alcohol
+ICD_2639,234,37,43,Protein-cal malnutr NOS,Unspecified protein-calorie malnutrition
+ICD_42732,231,85,111,Atrial flutter,Atrial flutter
+ICD_27800,229,73,88,Obesity NOS,"Obesity, unspecified"
+ICD_25060,228,114,204,DMII neuro nt st uncntrl,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+ICD_28529,224,36,58,Anemia-other chronic dis,Anemia of other chronic disease
+ICD_E8788,224,27,28,Abn react-surg proc NEC,"Other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+ICD_E8782,221,30,36,Abn react-anastom/graft,"Surgical operation with anastomosis, bypass, or graft, with natural or artificial tissues used as implant causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+ICD_79092,218,31,36,Abnrml coagultion prfile,Abnormal coagulation profile
+ICD_5712,217,158,264,Alcohol cirrhosis liver,Alcoholic cirrhosis of liver
+ICD_2809,216,59,91,Iron defic anemia NOS,"Iron deficiency anemia, unspecified"
+ICD_V103,214,170,232,Hx of breast malignancy,Personal history of malignant neoplasm of breast
+ICD_4148,208,67,98,Chr ischemic hrt dis NEC,Other specified forms of chronic ischemic heart disease
+ICD_78959,208,66,86,Ascites NEC,Other ascites
+ICD_V5865,207,75,111,Long-term use steroids,Long-term (current) use of steroids
+ICD_78551,203,20,21,Cardiogenic shock,Cardiogenic shock
+ICD_V422,200,63,89,Heart valve transplant,Heart valve replaced by transplant
+ICD_V441,200,62,92,Gastrostomy status,Gastrostomy status
+ICD_25040,199,90,149,DMII renl nt st uncntrld,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+ICD_5853,198,41,52,Chr kidney dis stage III,"Chronic kidney disease, Stage III (moderate)"
+ICD_3004,198,73,120,Dysthymic disorder,Dysthymic disorder
+ICD_V4502,197,98,161,Status autm crd dfbrltr,Automatic implantable cardiac defibrillator in situ
+ICD_9971,197,30,31,Surg compl-heart,"Cardiac complications, not elsewhere classified"
+ICD_V4511,196,95,188,Renal dialysis status,Renal dialysis status
+ICD_07054,196,112,196,Chrnc hpt C wo hpat coma,Chronic hepatitis C without mention of hepatic coma
+ICD_2948,191,68,93,Mental disor NEC oth dis,Other persistent mental disorders due to conditions classified elsewhere
+ICD_78791,189,23,27,Diarrhea,Diarrhea
+ICD_5723,188,94,134,Portal hypertension,Portal hypertension
+ICD_V1046,187,119,173,Hx-prostatic malignancy,Personal history of malignant neoplasm of prostate
+ICD_99811,186,17,19,Hemorrhage complic proc,Hemorrhage complicating a procedure
+ICD_27801,185,116,215,Morbid obesity,Morbid obesity
+ICD_1983,183,109,129,Sec mal neo brain/spine,Secondary malignant neoplasm of brain and spinal cord
+ICD_5185,182,17,17,,
+ICD_56210,182,31,37,Dvrtclo colon w/o hmrhg,Diverticulosis of colon (without mention of hemorrhage)
+ICD_51884,181,39,56,Acute & chronc resp fail,Acute and chronic respiratory failure
+ICD_1985,181,96,118,Secondary malig neo bone,Secondary malignant neoplasm of bone and bone marrow
+ICD_56400,177,24,26,Constipation NOS,"Constipation, unspecified"
+ICD_36201,175,107,224,Diabetic retinopathy NOS,Background diabetic retinopathy
+ICD_0414,174,19,20,,
+ICD_2763,171,15,18,Alkalosis,Alkalosis
+ICD_99812,171,22,23,Hematoma complic proc,Hematoma complicating a procedure
+ICD_2800,168,25,30,Chr blood loss anemia,Iron deficiency anemia secondary to blood loss (chronic)
+ICD_2765,168,31,33,,
+ICD_1977,166,75,84,Second malig neo liver,"Malignant neoplasm of liver, secondary"
+ICD_570,165,14,14,Acute necrosis of liver,Acute and subacute necrosis of liver
+ICD_2869,165,11,11,Coagulat defect NEC/NOS,Other and unspecified coagulation defects
+ICD_99662,164,38,54,React-oth vasc dev/graft,"Infection and inflammatory reaction due to other vascular device, implant, and graft"
+ICD_V1005,163,105,149,Hx of colonic malignancy,Personal history of malignant neoplasm of large intestine
+ICD_5601,163,8,12,Paralytic ileus,Paralytic ileus
+ICD_1970,161,85,107,Secondary malig neo lung,Secondary malignant neoplasm of lung
+ICD_28860,160,16,19,Leukocytosis NOS,"Leukocytosis, unspecified"
+ICD_34982,158,13,14,Toxic encephalopathy,Toxic encephalopathy
+ICD_71590,158,63,81,Osteoarthros NOS-unspec,"Osteoarthrosis, unspecified whether generalized or localized, site unspecified"
+ICD_E8497,157,17,23,Accid in resident instit,Accidents occurring in residential institution
+ICD_E8781,154,17,22,Abn react-artif implant,"Surgical operation with implant of artificial internal device causing abnormal patient reaction, or later complication,without mention of misadventure at time of operation"
+ICD_33829,153,39,73,Chronic pain NEC,Other chronic pain
+ICD_78820,149,29,33,Retention urine NOS,"Retention of urine, unspecified"
+ICD_V4364,149,62,73,Joint replaced hip,Hip joint replacement
+ICD_V153,147,46,56,Hx of irradiation,"Personal history of irradiation, presenting hazards to health"
+ICD_07070,146,69,107,Hpt C w/o hepat coma NOS,Unspecified viral hepatitis C without hepatic coma
+ICD_49320,146,53,65,Chronic obst asthma NOS,"Chronic obstructive asthma, unspecified"
+ICD_E9342,143,24,26,Adv eff anticoagulants,Anticoagulants causing adverse effects in therapeutic use
+ICD_04111,140,17,17,Mth sus Stph aur els/NOS,Methicillin susceptible Staphylococcus aureus in conditions classified elsewhere and of unspecified site
+ICD_43310,136,45,47,Ocl crtd art wo infrct,Occlusion and stenosis of carotid artery without mention of cerebral infarction
+ICD_34830,135,6,6,Encephalopathy NOS,"Encephalopathy, unspecified"
+ICD_E9331,134,33,42,Adv eff antineoplastic,Antineoplastic and immunosuppressive drugs causing adverse effects in therapeutic use
+ICD_V1011,133,68,104,Hx-bronchogenic malignan,Personal history of malignant neoplasm of bronchus and lung
+ICD_3970,133,28,41,Tricuspid valve disease,Diseases of tricuspid valve
+ICD_6826,132,29,35,Cellulitis of leg,"Cellulitis and abscess of leg, except foot"
+ICD_51882,131,6,6,Other pulmonary insuff,"Other pulmonary insufficiency, not elsewhere classified"
+ICD_E8780,130,47,89,Abn react-org transplant,"Surgical operation with transplant of whole organ causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+ICD_V462,128,43,74,Depend-supplement oxygen,"Other dependence on machines, supplemental oxygen"
+ICD_41519,128,22,22,Pulm embol/infarct NEC,Other pulmonary embolism and infarction
+ICD_99674,128,17,18,Comp-oth vasc dev/graft,"Other complications due to other vascular device, implant, and graft"
+ICD_V090,128,29,32,Inf mcrg rstn pncllins,Infection with microorganisms resistant to penicillins
+ICD_58381,127,54,97,Nephritis NOS in oth dis,"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere"
+ICD_V4365,127,67,79,Joint replaced knee,Knee joint replacement
+ICD_5722,127,48,60,Hepatic encephalopathy,Hepatic encephalopathy
+ICD_42830,126,33,43,Diastolc hrt failure NOS,"Diastolic heart failure, unspecified"
+ICD_43889,125,39,60,Late effect CV dis NEC,Other late effects of cerebrovascular disease
+ICD_431,124,23,24,Intracerebral hemorrhage,Intracerebral hemorrhage
+ICD_51919,123,64,119,Trachea & bronch dis NEC,Other diseases of trachea and bronchus
+ICD_70722,123,18,20,"Pressure ulcer, stage II","Pressure ulcer, stage II"
+ICD_04104,120,8,8,Enterococcus group d,"Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group D [Enterococcus]"
+ICD_99681,120,78,182,Compl kidney transplant,Complications of transplanted kidney
+ICD_9982,117,8,8,Accidental op laceration,"Accidental puncture or laceration during a procedure, not elsewhere classified"
+ICD_5781,117,9,9,Blood in stool,Blood in stool
+ICD_03811,117,11,12,Meth susc Staph aur sept,Methicillin susceptible Staphylococcus aureus septicemia
+ICD_48241,116,21,24,Meth sus pneum d/t Staph,Methicillin susceptible pneumonia due to Staphylococcus aureus
+ICD_3659,116,64,79,Glaucoma NOS,Unspecified glaucoma
+ICD_51889,115,24,38,Other lung disease NEC,"Other diseases of lung, not elsewhere classified"
+ICD_1120,114,9,10,Thrush,Candidiasis of mouth
+ICD_4928,114,47,53,Emphysema NEC,Other emphysema
+ICD_V1581,114,28,37,Hx of past noncompliance,"Personal history of noncompliance with medical treatment, presenting hazards to health"
+ICD_4538,113,18,20,,
+ICD_7746,112,20,20,Fetal/neonatal jaund NOS,Unspecified fetal and neonatal jaundice
+ICD_51883,111,28,48,Chronic respiratory fail,Chronic respiratory failure
+ICD_4414,110,53,68,Abdom aortic aneurysm,Abdominal aneurysm without mention of rupture
+ICD_5770,109,38,45,Acute pancreatitis,Acute pancreatitis
+ICD_78720,109,19,27,Dysphagia NOS,"Dysphagia, unspecified"
+ICD_4821,109,28,37,Pseudomonal pneumonia,Pneumonia due to Pseudomonas
+ICD_43820,107,36,45,Late ef-hemplga side NOS,"Late effects of cerebrovascular disease, hemiplegia affecting unspecified side"
+ICD_7140,107,80,122,Rheumatoid arthritis,Rheumatoid arthritis
+ICD_25080,106,11,13,DMII oth nt st uncntrld,"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled"
+ICD_29680,106,58,84,Bipolar disorder NOS,"Bipolar disorder, unspecified"
+ICD_3485,106,20,22,Cerebral edema,Cerebral edema
+ICD_V4589,106,19,22,Post-proc states NEC,Other postprocedural status
+ICD_0413,106,7,11,Klebsiella pneumoniae,Friedl?nder's bacillus infection in conditions classified elsewhere and of unspecified site
+ICD_45981,105,37,48,Venous insufficiency NOS,"Venous (peripheral) insufficiency, unspecified"
+ICD_V1052,105,71,106,Hx of kidney malignancy,Personal history of malignant neoplasm of kidney
+ICD_78559,105,3,3,Shock w/o trauma NEC,Other shock without mention of trauma
+ICD_29181,104,54,111,Alcohol withdrawal,Alcohol withdrawal
+ICD_E9320,104,19,30,Adv eff corticosteroids,Adrenal cortical steroids causing adverse effects in therapeutic use
+ICD_4373,103,55,73,Nonrupt cerebral aneurym,"Cerebral aneurysm, nonruptured"
+ICD_2874,103,15,17,,
+ICD_515,103,54,70,Postinflam pulm fibrosis,Postinflammatory pulmonary fibrosis
+ICD_V8741,103,32,36,Hx antineoplastic chemo,Personal history of antineoplastic chemotherapy
+ICD_4111,102,16,16,Intermed coronary synd,Intermediate coronary syndrome
+ICD_03849,100,9,10,Gram-neg septicemia NEC,Other septicemia due to gram-negative organisms
+ICD_2764,99,10,10,Mixed acid-base bal dis,Mixed acid-base balance disorder
+ICD_0417,99,13,14,Pseudomonas infect NOS,Pseudomonas infection in conditions classified elsewhere and of unspecified site
+ICD_5939,99,13,15,Renal & ureteral dis NOS,Unspecified disorder of kidney and ureter
+ICD_E8859,97,8,8,Fall from slipping NEC,"Fall from other slipping, tripping, or stumbling"
+ICD_042,97,80,157,Human immuno virus dis,Human immunodeficiency virus [HIV] disease
+ICD_2841,95,26,42,,
+ICD_29410,94,38,56,Dementia w/o behav dist,Dementia in conditions classified elsewhere without behavioral disturbance
+ICD_78009,93,3,3,Other alter consciousnes,Other alteration of consciousness
+ICD_5363,93,58,202,Gastroparesis,Gastroparesis
+ICD_44020,93,24,28,Athscl extrm ntv art NOS,"Atherosclerosis of native arteries of the extremities, unspecified"
+ICD_2866,93,5,5,Defibrination syndrome,Defibrination syndrome
+ICD_9974,93,18,19,,
+ICD_41402,92,22,25,Crn ath atlg vn bps grft,Coronary atherosclerosis of autologous vein bypass graft
+ICD_E8889,92,13,13,Fall NOS,Unspecified fall
+ICD_V1083,92,29,35,Hx-skin malignancy NEC,Personal history of other malignant neoplasm of skin
+ICD_70707,91,15,24,"Pressure ulcer, heel","Pressure ulcer, heel"
+ICD_5854,91,24,31,Chr kidney dis stage IV,"Chronic kidney disease, Stage IV (severe)"
+ICD_5533,91,32,40,Diaphragmatic hernia,Diaphragmatic hernia without mention of obstruction or gangrene
+ICD_45621,91,35,48,Esoph varice oth dis NOS,"Esophageal varices in diseases classified elsewhere, without mention of bleeding"
+ICD_2536,90,19,21,Neurohypophysis dis NEC,Other disorders of neurohypophysis
+ICD_7850,90,8,8,Tachycardia NOS,"Tachycardia, unspecified"
+ICD_5680,89,14,16,Peritoneal adhesions,Peritoneal adhesions (postoperative) (postinfection)
+ICD_5570,88,5,5,Ac vasc insuff intestine,Acute vascular insufficiency of intestine
+ICD_99731,87,11,11,Ventltr assoc pneumonia,Ventilator associated pneumonia
+ICD_3320,87,61,107,Paralysis agitans,Paralysis agitans
+ICD_V420,86,43,63,Kidney transplant status,Kidney replaced by transplant
+ICD_30391,86,35,40,Alcoh dep NEC/NOS-contin,"Other and unspecified alcohol dependence, continuous"
+ICD_5761,86,28,34,Cholangitis,Cholangitis
+ICD_25050,85,39,69,DMII ophth nt st uncntrl,"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+ICD_42820,85,10,10,Systolic hrt failure NOS,"Systolic heart failure, unspecified"
+ICD_34690,84,40,63,Migrne unsp wo ntrc mgrn,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus"
+ICD_4139,84,15,15,Angina pectoris NEC/NOS,Other and unspecified angina pectoris
+ICD_2867,84,6,7,Acq coagul factor defic,Acquired coagulation factor deficiency
+ICD_5780,84,6,7,Hematemesis,Hematemesis
+ICD_6822,83,12,12,Cellulitis of trunk,Cellulitis and abscess of trunk
+ICD_03842,83,8,10,E coli septicemia,Septicemia due to escherichia coli [E. coli]
+ICD_70715,83,23,25,Ulcer other part of foot,Ulcer of other part of foot
+ICD_7904,82,4,4,Elev transaminase/ldh,Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]
+ICD_4210,82,33,39,Ac/subac bact endocard,Acute and subacute bacterial endocarditis
+ICD_41072,82,9,10,"Subendo infarct, subseq","Subendocardial infarction, subsequent episode of care"
+ICD_42843,82,14,19,Ac/chr syst/dia hrt fail,Acute on chronic combined systolic and diastolic heart failure
+ICD_4011,81,5,6,Benign hypertension,Benign essential hypertension
+ICD_7242,80,19,22,Lumbago,Lumbago
+ICD_25013,80,46,119,DMI ketoacd uncontrold,"Diabetes with ketoacidosis, type I [juvenile type], uncontrolled"
+ICD_1122,80,4,4,Candidias urogenital NEC,Candidiasis of other urogenital sites
+ICD_5121,79,3,3,Iatrogenic pneumothorax,Iatrogenic pneumothorax
+ICD_3310,79,41,61,Alzheimer's disease,Alzheimer's disease
+ICD_6930,79,8,8,Drug dermatitis NOS,Dermatitis due to drugs and medicines taken internally
+ICD_44024,78,20,21,Ath ext ntv art gngrene,Atherosclerosis of native arteries of the extremities with gangrene
+ICD_V4975,78,36,80,Status amput below knee,Below knee amputation status
+ICD_5771,78,37,64,Chronic pancreatitis,Chronic pancreatitis
+ICD_25002,77,12,13,DMII wo cmp uncntrld,"Diabetes mellitus without mention of complication, type II or unspecified type, uncontrolled"
+ICD_3569,77,23,32,Idio periph neurpthy NOS,Unspecified hereditary and idiopathic peripheral neuropathy
+ICD_4321,77,21,22,Subdural hemorrhage,Subdural hemorrhage
+ICD_28522,77,10,12,Anemia in neoplastic dis,Anemia in neoplastic disease
+ICD_30500,77,10,15,Alcohol abuse-unspec,"Alcohol abuse, unspecified"
+ICD_19889,77,23,24,Secondary malig neo NEC,Secondary malignant neoplasm of other specified sites
+ICD_99931,77,8,9,Oth/uns inf-cen ven cath,Other and unspecified infection due to central venous catheter
+ICD_0380,76,5,5,Streptococcal septicemia,Streptococcal septicemia
+ICD_43411,75,4,4,Crbl emblsm w infrct,Cerebral embolism with cerebral infarction
+ICD_2753,75,2,2,Dis phosphorus metabol,Disorders of phosphorus metabolism
+ICD_3484,75,6,7,Compression of brain,Compression of brain
+ICD_V1082,75,50,67,Hx-malig skin melanoma,Personal history of malignant melanoma of skin
+ICD_V442,75,23,34,Ileostomy status,Ileostomy status
+ICD_3481,75,16,25,Anoxic brain damage,Anoxic brain damage
+ICD_30390,74,19,22,Alcoh dep NEC/NOS-unspec,"Other and unspecified alcohol dependence, unspecified"
+ICD_4239,74,13,13,Pericardial disease NOS,Unspecified disease of pericardium
+ICD_E8498,74,12,26,Accident in place NEC,Accidents occurring in other specified places
+ICD_70714,74,19,27,Ulcer of heel & midfoot,Ulcer of heel and midfoot
+ICD_1628,74,26,32,Mal neo bronch/lung NEC,Malignant neoplasm of other parts of bronchus or lung
+ICD_V1588,72,12,13,Personal history of fall,History of fall
+ICD_70705,72,9,11,"Pressure ulcer, buttock","Pressure ulcer, buttock"
+ICD_7895,72,22,27,,
+ICD_42781,71,10,13,Sinoatrial node dysfunct,Sinoatrial node dysfunction
+ICD_2766,70,7,9,,
+ICD_5724,70,19,21,Hepatorenal syndrome,Hepatorenal syndrome
+ICD_7863,70,10,12,,
+ICD_99682,70,31,51,Compl liver transplant,Complications of transplanted liver
+ICD_V0980,69,3,4,Inf mcr rst ot drg nt ml,Infection with microorganisms without mention of resistance to multiple drugs
+ICD_73390,69,22,27,Bone & cartilage dis NOS,"Disorder of bone and cartilage, unspecified"
+ICD_39891,69,21,23,Rheumatic heart failure,Rheumatic heart failure (congestive)
+ICD_V427,69,22,45,Liver transplant status,Liver replaced by transplant
+ICD_25061,68,41,82,DMI neuro nt st uncntrld,"Diabetes with neurological manifestations, type I [juvenile type], not stated as uncontrolled"
+ICD_7994,68,7,8,Cachexia,Cachexia
+ICD_99672,68,7,7,Comp-oth cardiac device,"Other complications due to other cardiac device, implant, and graft"
+ICD_42741,68,4,4,Ventricular fibrillation,Ventricular fibrillation
+ICD_42831,68,2,2,Ac diastolic hrt failure,Acute diastolic heart failure
+ICD_V1204,68,14,22,Hx Methicln resist Staph,Personal history of Methicillin resistant Staphylococcus aureus
+ICD_43811,67,24,30,Late eff CV dis-aphasia,"Late effects of cerebrovascular disease, aphasia"
+ICD_V08,67,51,72,Asymp hiv infectn status,Asymptomatic human immunodeficiency virus [HIV] infection status
+ICD_78057,67,23,30,Sleep apnea NOS,Unspecified sleep apnea
+ICD_43491,67,3,3,Crbl art ocl NOS w infrc,"Cerebral artery occlusion, unspecified with cerebral infarction"
+ICD_7070,67,16,25,,
+ICD_V707,66,2,4,Exam-clincal trial,Examination of participant in clinical trial
+ICD_27541,66,2,2,Hypocalcemia,Hypocalcemia
+ICD_53550,66,10,17,Gstr/ddnts NOS w/o hmrhg,"Unspecified gastritis and gastroduodenitis, without mention of hemorrhage"
+ICD_27542,65,4,5,Hypercalcemia,Hypercalcemia
+ICD_45341,65,4,4,Ac DVT/emb prox low ext,Acute venous embolism and thrombosis of deep vessels of proximal lower extremity
+ICD_34831,65,1,1,Metabolic encephalopathy,Metabolic encephalopathy
+ICD_7291,65,44,67,Myalgia and myositis NOS,"Myalgia and myositis, unspecified"
+ICD_57420,65,8,11,Cholelithiasis NOS,"Calculus of gallbladder without mention of cholecystitis, without mention of obstruction"
+ICD_4260,65,9,11,Atriovent block complete,"Atrioventricular block, complete"
+ICD_4160,64,16,22,Prim pulm hypertension,Primary pulmonary hypertension
+ICD_V1255,64,18,21,Hx pulmonary embolism,Personal history of pulmonary embolism
+ICD_7455,64,22,36,Secundum atrial sept def,Ostium secundum type atrial septal defect
+ICD_5609,64,3,3,Intestinal obstruct NOS,Unspecified intestinal obstruction
+ICD_70709,64,5,5,"Pressure ulcer, site NEC","Pressure ulcer, other site"
+ICD_3314,63,23,25,Obstructiv hydrocephalus,Obstructive hydrocephalus
+ICD_56722,63,13,15,Peritoneal abscess,Peritoneal abscess
+ICD_V173,62,9,9,Fam hx-ischem heart dis,Family history of ischemic heart disease
+ICD_04112,62,5,5,MRSA elsewhere/NOS,Methicillin resistant Staphylococcus aureus in conditions classified elsewhere and of unspecified site
+ICD_53789,62,22,36,Gastroduodenal dis NEC,Other specified disorders of stomach and duodenum
+ICD_9975,62,4,5,Surg compl-urinary tract,"Urinary complications, not elsewhere classified"
+ICD_78060,61,2,2,Fever NOS,"Fever, unspecified"
+ICD_4412,61,29,31,Thoracic aortic aneurysm,Thoracic aneurysm without mention of rupture
+ICD_99832,60,4,6,Disrup-external op wound,Disruption of external operation (surgical) wound
+ICD_V443,60,18,24,Colostomy status,Colostomy status
+ICD_591,60,14,17,Hydronephrosis,Hydronephrosis
+ICD_V4611,60,22,30,Respirator depend status,"Dependence on respirator, status"
+ICD_30301,60,30,58,Ac alcohol intox-contin,"Acute alcoholic intoxication in alcoholism, continuous"
+ICD_V1051,60,33,46,Hx of bladder malignancy,Personal history of malignant neoplasm of bladder
+ICD_30393,59,17,20,Alcoh dep NEC/NOS-remiss,"Other and unspecified alcohol dependence, in remission"
+ICD_5762,59,13,14,Obstruction of bile duct,Obstruction of bile duct
+ICD_42821,59,5,5,Ac systolic hrt failure,Acute systolic heart failure
+ICD_2848,59,10,13,,
+ICD_33394,59,29,43,Restless legs syndrome,Restless legs syndrome (RLS)
+ICD_1976,59,17,19,Sec mal neo peritoneum,Secondary malignant neoplasm of retroperitoneum and peritoneum
+ICD_1550,58,35,38,"Mal neo liver, primary","Malignant neoplasm of liver, primary"
+ICD_E8790,58,7,7,Abn react-cardiac cath,"Cardiac catheterization as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+ICD_56409,58,10,13,Constipation NEC,Other constipation
+ICD_V4579,58,7,8,Acq absence of organ NEC,Other acquired absence of organ
+ICD_7847,58,4,8,Epistaxis,Epistaxis
+ICD_25063,58,38,114,DMI neuro uncntrld,"Diabetes with neurological manifestations, type I [juvenile type], uncontrolled"
+ICD_78052,57,6,6,Insomnia NOS,"Insomnia, unspecified"
+ICD_25541,57,21,37,Glucocorticoid deficient,Glucocorticoid deficiency
+ICD_5997,57,7,9,,
+ICD_7806,56,9,9,,
+ICD_4820,56,6,6,K. pneumoniae pneumonia,Pneumonia due to Klebsiella pneumoniae
+ICD_44023,56,11,11,Ath ext ntv art ulcrtion,Atherosclerosis of native arteries of the extremities with ulceration
+ICD_27650,55,2,2,Volume depletion NOS,"Volume depletion, unspecified"
+ICD_78097,55,1,2,Altered mental status,Altered mental status
+ICD_34839,55,8,8,Encephalopathy NEC,Other encephalopathy
+ICD_49322,55,21,36,Ch obst asth w (ac) exac,Chronic obstructive asthma with (acute) exacerbation
+ICD_20280,55,39,56,Oth lymp unsp xtrndl org,"Other malignant lymphomas, unspecified site, extranodal and solid organ sites"
+ICD_V454,55,10,15,Arthrodesis status,Arthrodesis status
+ICD_99664,55,7,10,React-indwell urin cath,Infection and inflammatory reaction due to indwelling urinary catheter
+ICD_7100,55,51,140,Syst lupus erythematosus,Systemic lupus erythematosus
+ICD_E9308,55,2,2,Adv eff antibiotics NEC,Other specified antibiotics causing adverse effects in therapeutic use
+ICD_42842,54,12,14,Chr syst/diastl hrt fail,Chronic combined systolic and diastolic heart failure
+ICD_60001,54,17,21,BPH w urinary obs/LUTS,Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS)
+ICD_70723,54,4,5,"Pressure ulcer,stage III","Pressure ulcer, stage III"
+ICD_04185,54,4,4,Oth gram negatv bacteria,"Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other gram-negative organisms"
+ICD_29281,54,0,0,Drug-induced delirium,Drug-induced delirium
+ICD_7245,54,11,12,Backache NOS,"Backache, unspecified"
+ICD_452,53,14,15,Portal vein thrombosis,Portal vein thrombosis
+ICD_28800,53,12,12,Neutropenia NOS,"Neutropenia, unspecified"
+ICD_V5866,53,7,8,Long-term use of aspirin,Long-term (current) use of aspirin
+ICD_5569,53,31,47,Ulceratve colitis unspcf,"Ulcerative colitis, unspecified"
+ICD_25041,52,35,66,DMI renl nt st uncntrld,"Diabetes with renal manifestations, type I [juvenile type], not stated as uncontrolled"
+ICD_78830,52,1,1,Urinary incontinence NOS,"Urinary incontinence, unspecified"
+ICD_99831,52,2,2,Disrup internal op wound,Disruption of internal operation (surgical) wound
+ICD_30981,52,30,39,Posttraumatic stress dis,Posttraumatic stress disorder
+ICD_27669,52,6,6,Fluid overload NEC,Other fluid overload
+ICD_34290,51,7,7,Unsp hemiplga unspf side,"Hemiplegia, unspecified, affecting unspecified side"
+ICD_48283,51,2,2,Pneumo oth grm-neg bact,Pneumonia due to other gram-negative bacteria
+ICD_340,51,44,84,Multiple sclerosis,Multiple sclerosis
+ICD_25001,51,19,23,DMI wo cmp nt st uncntrl,"Diabetes mellitus without mention of complication, type I [juvenile type], not stated as uncontrolled"
+ICD_V1272,51,12,13,Prsnl hst colonic polyps,Personal history of colonic polyps
+ICD_3441,51,29,76,Paraplegia NOS,Paraplegia
+ICD_56081,51,6,7,Intestinal adhes w obstr,Intestinal or peritoneal adhesions with obstruction (postoperative) (postinfection)
+ICD_3963,50,12,14,Mitral/aortic val insuff,Mitral valve insufficiency and aortic valve insufficiency
+ICD_0416,50,3,4,Proteus infection NOS,Proteus (mirabilis) (morganii) infection in conditions classified elsewhere and of unspecified site
+ICD_725,50,38,45,Polymyalgia rheumatica,Polymyalgia rheumatica
+ICD_58881,50,18,32,Sec hyperparathyrd-renal,Secondary hyperparathyroidism (of renal origin)
+ICD_4263,50,14,15,Left bb block NEC,Other left bundle branch block
+ICD_4401,50,13,13,Renal artery atheroscler,Atherosclerosis of renal artery
+ICD_04119,50,5,8,Other staphylococcus,"Staphylococcus infection in conditions classified elsewhere and of unspecified site, other staphylococcus"
+ICD_41189,50,3,3,Ac ischemic hrt dis NEC,"Other acute and subacute forms of ischemic heart disease, other"
+ICD_V4572,50,13,17,Acquire absnce intestine,Acquired absence of intestine (large) (small)
+ICD_V1259,50,10,11,Hx-circulatory dis NEC,Personal history of other diseases of circulatory system
+ICD_78701,50,4,4,Nausea with vomiting,Nausea with vomiting
+ICD_56723,49,7,7,Spontan bact peritonitis,Spontaneous bacterial peritonitis
+ICD_3453,49,9,11,Grand mal status,Grand mal status
+ICD_585,49,18,32,,
+ICD_79029,49,4,4,Abnormal glucose NEC,Other abnormal glucose
+ICD_56981,49,17,28,Intestinal fistula,"Fistula of intestine, excluding rectum and anus"
+ICD_45620,49,27,33,Bleed esoph var oth dis,"Esophageal varices in diseases classified elsewhere, with bleeding"
+ICD_99673,49,8,9,Comp-ren dialys dev/grft,"Other complications due to renal dialysis device, implant, and graft"
+ICD_59654,49,30,68,Neurogenic bladder NOS,Neurogenic bladder NOS
+ICD_0388,48,0,0,Septicemia NEC,Other specified septicemias
+ICD_E8792,48,10,15,Abn react-radiotherapy,"Radiological procedure and radiotherapy as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+ICD_78550,48,1,1,Shock NOS,"Shock, unspecified"
+ICD_30501,48,9,9,Alcohol abuse-continuous,"Alcohol abuse, continuous"
+ICD_23875,47,28,47,Myelodysplastic synd NOS,"Myelodysplastic syndrome, unspecified"
+ICD_1623,47,18,21,Mal neo upper lobe lung,"Malignant neoplasm of upper lobe, bronchus or lung"
+ICD_04149,47,2,2,E.coli infection NEC/NOS,Other and unspecified Escherichia coli [E. coli]
+ICD_7843,47,6,6,Aphasia,Aphasia
+ICD_73313,47,11,15,Path fx vertebrae,Pathologic fracture of vertebrae
+ICD_1629,47,10,10,Mal neo bronch/lung NOS,"Malignant neoplasm of bronchus and lung, unspecified"
+ICD_5559,47,33,48,Regional enteritis NOS,Regional enteritis of unspecified site
+ICD_7823,46,0,0,Edema,Edema
+ICD_99659,46,8,9,Malfunc oth device/graft,"Mechanical complication due to other implant and internal device, not elsewhere classified"
+ICD_261,46,8,10,Nutritional marasmus,Nutritional marasmus
+ICD_51189,46,9,11,Effusion NEC exc tb,"Other specified forms of effusion, except tuberculous"
+ICD_5718,46,22,30,Chronic liver dis NEC,Other chronic nonalcoholic liver disease
+ICD_99661,45,9,11,React-cardiac dev/graft,"Infection and inflammatory reaction due to cardiac device, implant, and graft"
+ICD_E9478,45,1,1,Adv eff medicinal NEC,Other drugs and medicinal substances causing adverse effects in therapeutic use
+ICD_2752,45,4,4,Dis magnesium metabolism,Disorders of magnesium metabolism
+ICD_7885,45,0,0,Oliguria & anuria,Oliguria and anuria
+ICD_5728,45,7,11,"Oth sequela, chr liv dis",Other sequelae of chronic liver disease
+ICD_V1087,44,24,42,Hx of thyroid malignancy,Personal history of malignant neoplasm of thyroid
+ICD_135,44,37,93,Sarcoidosis,Sarcoidosis
+ICD_25053,44,21,56,DMI ophth uncntrld,"Diabetes with ophthalmic manifestations, type I [juvenile type], uncontrolled"
+ICD_E912,44,2,2,Resp obstr-inhal obj NEC,Inhalation and ingestion of other object causing obstruction of respiratory tract or suffocation
+ICD_41091,44,4,4,"AMI NOS, initial","Acute myocardial infarction of unspecified site, initial episode of care"
+ICD_2554,44,18,27,,
+ICD_4370,44,12,13,Cerebral atherosclerosis,Cerebral atherosclerosis
+ICD_V550,43,7,9,Atten to tracheostomy,Attention to tracheostomy
+ICD_53019,43,9,13,Other esophagitis,Other esophagitis
+ICD_78061,43,13,17,Fever in other diseases,Fever presenting with conditions classified elsewhere
+ICD_5768,43,5,6,Dis of biliary tract NEC,Other specified disorders of biliary tract
+ICD_4940,43,16,24,Bronchiectas w/o ac exac,Bronchiectasis without acute exacerbation
+ICD_6961,43,25,30,Other psoriasis,Other psoriasis
+ICD_30401,43,14,24,Opioid dependence-contin,"Opioid type dependence, continuous"
+ICD_85221,43,11,11,Subdural hem w/o coma,"Subdural hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness"
+ICD_55321,43,3,3,Incisional hernia,Incisional hernia without mention of obstruction or gangrene
+ICD_V4987,43,1,1,Physical restrain status,Physical restraints status
+ICD_56212,42,12,13,Dvrtclo colon w hmrhg,Diverticulosis of colon with hemorrhage
+ICD_4580,42,4,4,Orthostatic hypotension,Orthostatic hypotension
+ICD_3694,42,23,31,Legal blindness-usa def,"Legal blindness, as defined in U.S.A."
+ICD_E9289,42,4,5,Accident NOS,Unspecified accident
+ICD_E8796,42,3,3,Abn react-urinary cath,"Urinary catheterization as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+ICD_70724,42,17,32,"Pressure ulcer, stage IV","Pressure ulcer, stage IV"
+ICD_V0254,42,5,9,Meth resis Staph carrier,Carrier or suspected carrier of Methicillin resistant Staphylococcus aureus
+ICD_99702,42,2,2,Iatrogen CV infarc/hmrhg,Iatrogenic cerebrovascular infarction or hemorrhage
+ICD_4588,42,1,1,Hypotension NEC,Other specified hypotension
+ICD_79001,42,5,5,"Drop, hematocrit, precip",Precipitous drop in hematocrit
+ICD_25043,42,20,68,DMI renal uncntrld,"Diabetes with renal manifestations, type I [juvenile type], uncontrolled"
+ICD_53085,42,19,26,Barrett's esophagus,Barrett's esophagus
+ICD_E8791,42,8,15,Abn react-renal dialysis,"Kidney dialysis as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+ICD_72888,41,2,2,Rhabdomyolysis,Rhabdomyolysis
+ICD_7793,41,14,15,,
+ICD_25051,41,28,53,DMI ophth nt st uncntrld,"Diabetes with ophthalmic manifestations, type I [juvenile type], not stated as uncontrolled"
+ICD_4233,41,6,6,Cardiac tamponade,Cardiac tamponade
+ICD_20300,41,22,36,Mult mye w/o achv rmson,"Multiple myeloma, without mention of having achieved remission"
+ICD_V4573,41,22,25,Acquired absence kidney,Acquired absence of kidney
+ICD_7802,41,4,4,Syncope and collapse,Syncope and collapse
+ICD_5589,41,4,4,Noninf gastroenterit NEC,Other and unspecified noninfectious gastroenteritis and colitis
+ICD_V053,40,3,3,Need prphyl vc vrl hepat,Need for prophylactic vaccination and inoculation against viral hepatitis
+ICD_4430,40,18,33,Raynaud's syndrome,Raynaud's syndrome
+ICD_51902,40,11,15,Tracheostomy - mech comp,Mechanical complication of tracheostomy
+ICD_5672,40,3,3,,
+ICD_E8786,40,2,2,Abn reac-organ rem NEC,"Removal of other organ (partial) (total) causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+ICD_3383,40,7,8,Neoplasm related pain,Neoplasm related pain (acute) (chronic)
+ICD_185,40,12,15,Malign neopl prostate,Malignant neoplasm of prostate
+ICD_3962,40,14,14,Mitral insuf/aort stenos,Mitral valve insufficiency and aortic valve stenosis
+ICD_V4586,40,22,38,Bariatric surgery status,Bariatric surgery status
+ICD_7837,40,3,5,Failure to thrive-adult,Adult failure to thrive
+ICD_V452,39,14,19,Ventricular shunt status,Presence of cerebrospinal fluid drainage device
+ICD_29420,39,3,4,Demen NOS w/o behv dstrb,"Dementia, unspecified, without behavioral disturbance"
+ICD_V600,39,22,36,Lack of housing,Lack of housing
+ICD_70725,39,1,1,"Pressure ulcer,unstagebl","Pressure ulcer, unstageable"
+ICD_5184,39,0,0,Acute lung edema NOS,"Acute edema of lung, unspecified"
+ICD_56969,39,4,6,Colstmy/enteros comp NEC,Other colostomy and enterostomy complication
+ICD_2113,38,5,5,Benign neoplasm lg bowel,Benign neoplasm of colon
+ICD_3899,38,12,14,Hearing loss NOS,Unspecified hearing loss
+ICD_V5869,38,7,8,Long-term use meds NEC,Long-term (current) use of other medications
+ICD_51181,38,9,10,Malignant pleural effusn,Malignant pleural effusion
+ICD_5191,38,19,26,,
+ICD_43330,38,9,9,Ocl mlt bi art wo infrct,Occlusion and stenosis of multiple and bilateral precerebral arteries without mention of cerebral infarction
+ICD_29040,38,13,14,"Vascular dementia,uncomp","Vascular dementia, uncomplicated"
+ICD_71690,38,9,11,Arthropathy NOS-unspec,"Arthropathy, unspecified, site unspecified"
+ICD_4550,38,1,1,Int hemorrhoid w/o compl,Internal hemorrhoids without mention of complication
+ICD_53240,38,5,5,Chr duoden ulcer w hem,"Chronic or unspecified duodenal ulcer with hemorrhage, without mention of obstruction"
+ICD_1961,38,11,11,Mal neo lymph-intrathor,Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes
+ICD_4592,38,9,15,Compression of vein,Compression of vein
+ICD_5307,37,9,11,Mallory-weiss syndrome,Gastroesophageal laceration-hemorrhage syndrome
+ICD_28981,37,19,24,Prim hypercoagulable st,Primary hypercoagulable state
+ICD_7821,37,0,0,Nonspecif skin erupt NEC,Rash and other nonspecific skin eruption
+ICD_56211,37,8,11,Dvrtcli colon w/o hmrhg,Diverticulitis of colon (without mention of hemorrhage)
+ICD_V1003,37,16,19,Hx-esophageal malignancy,Personal history of malignant neoplasm of esophagus
+ICD_9972,37,2,2,Surg comp-peri vasc syst,"Peripheral vascular complications, not elsewhere classified"
+ICD_1972,37,7,7,Second malig neo pleura,Secondary malignant neoplasm of pleura
+ICD_6827,37,1,1,Cellulitis of foot,"Cellulitis and abscess of foot, except toes"
+ICD_9331,37,3,4,Foreign body in larynx,Foreign body in larynx
+ICD_03843,37,2,3,Pseudomonas septicemia,Septicemia due to pseudomonas
+ICD_430,37,7,7,Subarachnoid hemorrhage,Subarachnoid hemorrhage
+ICD_7742,37,14,14,Neonat jaund preterm del,Neonatal jaundice associated with preterm delivery
+ICD_70719,37,5,6,Ulcer oth part low limb,Ulcer of other part of lower limb
+ICD_5109,37,5,6,Empyema w/o fistula,Empyema without mention of fistula
+ICD_72400,36,11,12,Spinal stenosis NOS,"Spinal stenosis, unspecified region"
+ICD_2662,36,16,20,B-complex defic NEC,Other B-complex deficiencies
+ICD_7840,36,6,7,Headache,Headache
+ICD_07032,36,17,28,Hpt B chrn wo cm wo dlta,Chronic viral hepatitis B without mention of hepatic coma without mention of hepatitis delta
+ICD_56089,36,1,1,Intestinal obstruct NEC,Other specified intestinal obstruction
+ICD_E9352,36,1,1,Adv eff opiates,Other opiates and related narcotics causing adverse effects in therapeutic use
+ICD_9961,36,1,1,Malfunc vasc device/graf,"Mechanical complication of other vascular device, implant, and graft"
+ICD_44422,36,8,8,Lower extremity embolism,Arterial embolism and thrombosis of lower extremity
+ICD_V1301,36,13,15,Prsnl hst urnr dsrd calc,Personal history of urinary calculi
+ICD_V1271,36,3,3,Prsnl hst peptic ulcr ds,Personal history of peptic ulcer disease
+ICD_99685,36,21,43,Compl marrow transplant,Complications of transplanted bone marrow
+ICD_9986,36,3,4,Persist postop fistula,Persistent postoperative fistula
+ICD_4242,36,4,4,Nonrheum tricusp val dis,"Tricuspid valve disorders, specified as nonrheumatic"
+ICD_2440,36,15,23,Postsurgical hypothyroid,Postsurgical hypothyroidism
+ICD_2689,36,10,14,Vitamin D deficiency NOS,Unspecified vitamin D deficiency
+ICD_53140,36,3,3,Chr stomach ulc w hem,"Chronic or unspecified gastric ulcer with hemorrhage, without mention of obstruction"
+ICD_5303,36,8,10,Esophageal stricture,Stricture and stenosis of esophagus
+ICD_7078,35,1,1,Chronic skin ulcer NEC,Chronic ulcer of other specified sites
+ICD_03812,35,4,5,MRSA septicemia,Methicillin resistant Staphylococcus aureus septicemia
+ICD_V451,35,8,9,,
+ICD_E8490,35,3,3,Accident in home,Home accidents
+ICD_20500,35,21,26,Ac myl leuk wo achv rmsn,"Acute myeloid leukemia, without mention of having achieved remission"
+ICD_36250,35,21,29,Macular degeneration NOS,"Macular degeneration (senile), unspecified"
+ICD_V1006,34,18,41,Hx-rectal & anal malign,"Personal history of malignant neoplasm of rectum, rectosigmoid junction, and anus"
+ICD_48242,34,1,1,Meth res pneu d/t Staph,Methicillin resistant pneumonia due to Staphylococcus aureus
+ICD_78659,34,4,5,Chest pain NEC,Other chest pain
+ICD_4829,34,0,0,Bacterial pneumonia NOS,"Bacterial pneumonia, unspecified"
+ICD_59970,34,2,2,Hematuria NOS,"Hematuria, unspecified"
+ICD_45821,34,5,5,Hemododialysis hypotensn,Hypotension of hemodialysis
+ICD_E9394,34,0,0,Adv eff benzodiaz tranq,Benzodiazepine-based tranquilizers causing adverse effects in therapeutic use
+ICD_73028,34,5,5,Osteomyelit NOS-oth site,"Unspecified osteomyelitis, other specified sites"
+ICD_78079,34,3,7,Malaise and fatigue NEC,Other malaise and fatigue
+ICD_1890,34,19,21,Malig neopl kidney,"Malignant neoplasm of kidney, except pelvis"
+ICD_56983,34,1,1,Perforation of intestine,Perforation of intestine
+ICD_5772,34,13,15,Pancreat cyst/pseudocyst,Cyst and pseudocyst of pancreas
+ICD_V1007,34,9,16,Hx of liver malignancy,Personal history of malignant neoplasm of liver
+ICD_7856,34,5,12,Enlargement lymph nodes,Enlargement of lymph nodes
+ICD_44021,34,7,7,Ath ext ntv at w claudct,Atherosclerosis of native arteries of the extremities with intermittent claudication
+ICD_25062,34,11,11,DMII neuro uncntrld,"Diabetes with neurological manifestations, type II or unspecified type, uncontrolled"
+ICD_9973,33,3,4,,
+ICD_03819,33,2,2,Staphylcocc septicem NEC,Other staphylococcal septicemia
+ICD_29570,33,23,45,Schizoaffective dis NOS,"Schizoaffective disorder, unspecified"
+ICD_20410,33,25,41,Ch lym leuk wo achv rmsn,"Chronic lymphoid leukemia, without mention of having achieved remission"
+ICD_70720,33,0,0,"Pressure ulcer,stage NOS","Pressure ulcer, unspecified stage"
+ICD_7812,33,3,4,Abnormality of gait,Abnormality of gait
+ICD_V1302,33,8,13,Personal history UTI,"Personal history, urinary (tract) infection"
+ICD_72989,33,5,8,Muscskel sympt limb NEC,Other musculoskeletal symptoms referable to limbs
+ICD_V290,33,13,13,NB obsrv suspct infect,Observation for suspected infectious condition
+ICD_5711,33,13,15,Ac alcoholic hepatitis,Acute alcoholic hepatitis
+ICD_41041,33,5,5,"AMI inferior wall, init","Acute myocardial infarction of other inferior wall, initial episode of care"
+ICD_28850,33,2,2,Leukocytopenia NOS,"Leukocytopenia, unspecified"
+ICD_04186,32,3,3,Helicobacter pylori,Helicobacter pylori [H. pylori]
+ICD_1125,32,3,3,Disseminated candidiasis,Disseminated candidiasis
+ICD_99883,32,2,2,Non-healing surgcl wound,Non-healing surgical wound
+ICD_V4972,32,6,6,Status amput othr toe(s),Other toe(s) amputation status
+ICD_5920,32,14,16,Calculus of kidney,Calculus of kidney
+ICD_5793,32,21,57,Intest postop nonabsorb,Other and unspecified postsurgical nonabsorption
+ICD_E915,32,7,8,FB entering oth orifice,Foreign body accidentally entering other orifice
+ICD_53390,31,9,9,Peptic ulcer NOS,"Peptic ulcer of unspecified site, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction"
+ICD_1179,31,4,4,Mycoses NEC & NOS,Other and unspecified mycoses
+ICD_V6284,31,4,7,Suicidal ideation,Suicidal ideation
+ICD_56881,31,4,7,Hemoperitoneum,Hemoperitoneum (nontraumatic)
+ICD_V8801,31,11,12,Acq absnce cervix/uterus,Acquired absence of both cervix and uterus
+ICD_5750,30,1,1,Acute cholecystitis,Acute cholecystitis
+ICD_78829,30,4,5,Oth spcf retention urine,Other specified retention of urine
+ICD_2518,30,6,7,Pancreatic disorder NEC,Other specified disorders of pancreatic internal secretion
+ICD_07030,30,9,16,Hpt B acte wo cm wo dlta,"Viral hepatitis B without mention of hepatic coma, acute or unspecified, without mention of hepatitis delta"
+ICD_24900,30,8,11,Sec DM wo cmp nt st uncn,"Secondary diabetes mellitus without mention of complication, not stated as uncontrolled, or unspecified"
+ICD_5641,30,15,16,Irritable bowel syndrome,Irritable bowel syndrome
+ICD_29590,30,20,40,Schizophrenia NOS-unspec,"Unspecified schizophrenia, unspecified"
+ICD_30560,30,11,14,Cocaine abuse-unspec,"Cocaine abuse, unspecified"
+ICD_77081,30,5,5,Primary apnea of newborn,Primary apnea of newborn
+ICD_7921,30,0,0,Abn find-stool contents,Nonspecific abnormal findings in stool contents
+ICD_V4983,30,10,15,Await organ transplnt st,Awaiting organ transplant status
+ICD_72402,30,10,12,"Spin sten,lumbr wo claud","Spinal stenosis, lumbar region, without neurogenic claudication"
+ICD_27803,29,12,28,Obesity hypovent synd,Obesity hypoventilation syndrome
+ICD_3079,29,0,0,Special symptom NEC/NOS,"Other and unspecified special symptoms or syndromes, not elsewhere classified"
+ICD_07044,29,10,17,Chrnc hpt C w hepat Coma,Chronic hepatitis C with hepatic coma
+ICD_2630,29,1,1,Malnutrition mod degree,Malnutrition of moderate degree
+ICD_23871,29,1,1,Essntial thrombocythemia,Essential thrombocythemia
+ICD_V4976,29,14,18,Status amput above knee,Above knee amputation status
+ICD_E9444,29,3,3,Adv eff diuretics NEC,Other diuretics causing adverse effects in therapeutic use
+ICD_V641,29,1,1,No proc/contraindication,Surgical or other procedure not carried out because of contraindication
+ICD_4142,29,0,0,Chr tot occlus cor artry,Chronic total occlusion of coronary artery
+ICD_E8783,29,3,4,Abn react-external stoma,"Surgical operation with formation of external stoma causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+ICD_4400,29,4,6,Aortic atherosclerosis,Atherosclerosis of aorta
+ICD_1173,29,9,20,Aspergillosis,Aspergillosis
+ICD_0088,29,2,2,Viral enteritis NOS,"Intestinal infection due to other organism, not elsewhere classified"
+ICD_59971,29,3,3,Gross hematuria,Gross hematuria
+ICD_319,29,20,41,Intellect disability NOS,Unspecified intellectual disabilities
+ICD_51851,29,2,2,Ac resp flr fol trma/srg,Acute respiratory failure following trauma and surgery
+ICD_E9290,29,8,8,Late eff motor vehic acc,Late effects of motor vehicle accident
+ICD_34400,28,9,17,"Quadriplegia, unspecifd","Quadriplegia, unspecified"
+ICD_40310,28,3,3,Ben hy kid w cr kid I-IV,"Hypertensive chronic kidney disease, benign, with chronic kidney disease stage I through stage IV, or unspecified"
+ICD_3669,28,5,5,Cataract NOS,Unspecified cataract
+ICD_9980,28,1,1,,
+ICD_25012,28,7,12,DMII ketoacd uncontrold,"Diabetes with ketoacidosis, type II or unspecified type, uncontrolled"
+ICD_53010,28,2,3,"Esophagitis, unspecified","Esophagitis, unspecified"
+ICD_99749,28,3,5,Oth digestv system comp,Other digestive system complications
+ICD_99594,28,0,0,SIRS-noninf w ac org dys,Systemic inflammatory response syndrome due to noninfectious process with acute organ dysfunction
+ICD_V444,28,3,3,Enterostomy status NEC,Status of other artificial opening of gastrointestinal tract
+ICD_44101,28,11,14,Dsct of thoracic aorta,"Dissection of aorta, thoracic"
+ICD_73008,28,4,5,Ac osteomyelitis NEC,"Acute osteomyelitis, other specified sites"
+ICD_V1079,28,9,15,Hx-lymphatic malign NEC,Personal history of other lymphatic and hematopoietic neoplasms
+ICD_28419,28,10,13,Other pancytopenia,Other pancytopenia
+ICD_25070,28,3,3,DMII circ nt st uncntrld,"Diabetes with peripheral circulatory disorders, type II or unspecified type, not stated as uncontrolled"
+ICD_71536,28,4,11,Loc osteoarth NOS-l/leg,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg"
+ICD_V4282,27,7,7,Trspl sts-perip stm cell,Peripheral stem cells replaced by transplant
+ICD_1625,27,11,12,Mal neo lower lobe lung,"Malignant neoplasm of lower lobe, bronchus or lung"
+ICD_5579,27,2,2,Vasc insuff intest NOS,Unspecified vascular insufficiency of intestine
+ICD_2512,27,3,4,Hypoglycemia NOS,"Hypoglycemia, unspecified"
+ICD_27739,27,9,15,Amyloidosis NEC,Other amyloidosis
+ICD_53783,27,5,11,Angio stm/dudn w hmrhg,Angiodysplasia of stomach and duodenum with hemorrhage
+ICD_4568,27,6,8,Varices of other sites,Varices of other sites
+ICD_28749,27,5,5,Sec thrombocytpenia NEC,Other secondary thrombocytopenia
+ICD_6823,27,2,2,Cellulitis of arm,Cellulitis and abscess of upper arm and forearm
+ICD_1987,27,7,8,Second malig neo adrenal,Secondary malignant neoplasm of adrenal gland
+ICD_51909,27,5,6,Tracheostomy comp NEC,Other tracheostomy complications
+ICD_4404,26,7,7,Chr tot occl art extrem,Chronic total occlusion of artery of the extremities
+ICD_2252,26,13,18,Ben neo cerebr meninges,Benign neoplasm of cerebral meninges
+ICD_33818,26,2,2,Acute postop pain NEC,Other acute postoperative pain
+ICD_4270,26,1,1,Parox atrial tachycardia,Paroxysmal supraventricular tachycardia
+ICD_4251,26,20,30,,
+ICD_2920,26,4,4,Drug withdrawal,Drug withdrawal
+ICD_8670,26,2,2,Bladder/urethra inj-clos,"Injury to bladder and urethra, without mention of open wound into cavity"
+ICD_514,26,1,1,Pulm congest/hypostasis,Pulmonary congestion and hypostasis
+ICD_25042,26,4,5,DMII renal uncntrld,"Diabetes with renal manifestations, type II or unspecified type, uncontrolled"
+ICD_V453,26,2,2,Intestinal bypass status,Intestinal bypass or anastomosis status
+ICD_45340,26,2,2,Ac DVT/embl low ext NOS,Acute venous embolism and thrombosis of unspecified deep vessels of lower extremity
+ICD_85220,26,4,4,Traumatic subdural hem,"Subdural hemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness"
+ICD_28984,26,6,6,Heparin-indu thrombocyto,Heparin-induced thrombocytopenia (HIT)
+ICD_5571,26,7,12,Chr vasc insuff intest,Chronic vascular insufficiency of intestine
+ICD_70704,26,5,6,"Pressure ulcer, hip","Pressure ulcer, hip"
+ICD_53551,26,2,2,Gstr/ddnts NOS w hmrhg,"Unspecified gastritis and gastroduodenitis, with hemorrhage"
+ICD_5738,25,3,3,Liver disorders NEC,Other specified disorders of liver
+ICD_5118,25,2,2,,
+ICD_99739,25,0,0,Respiratory comp NEC,Other respiratory complications
+ICD_45182,25,0,0,Phlbts sprfc vn up extrm,Phlebitis and thrombophlebitis of superficial veins of upper extremities
+ICD_53560,25,2,2,Duodenitis w/o hmrhg,"Duodenitis, without mention of hemorrhage"
+ICD_0383,25,0,0,Anaerobic septicemia,Septicemia due to anaerobes
+ICD_78001,25,1,1,Coma,Coma
+ICD_E8700,25,1,1,Acc cut/hem in surgery,"Accidental cut, puncture, perforation or hemorrhage during surgical operation"
+ICD_V850,25,5,7,"BMI less than 19,adult","Body Mass Index less than 19, adult"
+ICD_V1253,25,7,13,Hx sudden cardiac arrest,Personal history of sudden cardiac arrest
+ICD_V180,25,5,7,Fam hx-diabetes mellitus,Family history of diabetes mellitus
+ICD_4264,25,3,3,Rt bundle branch block,Right bundle branch block
+ICD_5852,24,6,7,Chro kidney dis stage II,"Chronic kidney disease, Stage II (mild)"
+ICD_1962,24,7,9,Mal neo lymph intra-abd,Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes
+ICD_71596,24,9,11,Osteoarthros NOS-l/leg,"Osteoarthrosis, unspecified whether generalized or localized, lower leg"
+ICD_99889,24,0,0,Oth spcf cmplc procd NEC,Other specified complications of procedures not elsewhere classified
+ICD_4590,24,1,1,Hemorrhage NOS,"Hemorrhage, unspecified"
+ICD_28803,24,4,5,Drug induced neutropenia,Drug induced neutropenia
+ICD_42090,24,1,1,Acute pericarditis NOS,"Acute pericarditis, unspecified"
+ICD_E8809,24,5,6,Fall on stair/step NEC,Accidental fall on or from other stairs or steps
+ICD_72889,24,3,5,Muscle/ligament dis NEC,"Other disorders of muscle, ligament, and fascia"
+ICD_30001,24,6,8,Panic dis w/o agorphobia,Panic disorder without agoraphobia
+ICD_78609,24,4,4,Respiratory abnorm NEC,Other respiratory abnormalities
+ICD_9070,24,6,6,Lt eff intracranial inj,Late effect of intracranial injury without mention of skull fracture
+ICD_V4571,24,10,11,Acq absnce breast/nipple,Acquired absence of breast and nipple
+ICD_V5332,24,3,3,Ftng autmtc dfibrillator,Fitting and adjustment of automatic implantable cardiac defibrillator
+ICD_V553,24,2,2,Atten to colostomy,Attention to colostomy
+ICD_34889,24,1,1,Brain conditions NEC,Other conditions of brain
+ICD_V1201,24,12,15,Prsnl hst tuberculosis,Personal history of tuberculosis
+ICD_78722,24,2,2,"Dysphagia, oropharyngeal","Dysphagia, oropharyngeal phase"
+ICD_3558,24,3,5,Mononeuritis leg NOS,"Mononeuritis of lower limb, unspecified"
+ICD_V5331,24,2,2,Ftng cardiac pacemaker,Fitting and adjustment of cardiac pacemaker
+ICD_E9420,23,4,4,Adv eff card rhyth regul,Cardiac rhythm regulators causing adverse effects in therapeutic use
+ICD_9341,23,0,0,Foreign body bronchus,Foreign body in main bronchus
+ICD_30590,23,4,6,Drug abuse NEC-unspec,"Other, mixed, or unspecified drug abuse, unspecified"
+ICD_E8499,23,0,0,Accident in place NOS,Accidents occurring in unspecified place
+ICD_4471,23,2,2,Stricture of artery,Stricture of artery
+ICD_9092,23,8,10,Late effect of radiation,Late effect of radiation
+ICD_70721,23,0,0,"Pressure ulcer, stage I","Pressure ulcer, stage I"
+ICD_5720,23,7,8,Abscess of liver,Abscess of liver
+ICD_45342,23,1,1,Ac DVT/emb distl low ext,Acute venous embolism and thrombosis of deep vessels of distal lower extremity
+ICD_25082,23,4,6,DMII oth uncntrld,"Diabetes with other specified manifestations, type II or unspecified type, uncontrolled"
+ICD_0785,23,3,4,Cytomegaloviral disease,Cytomegaloviral disease
+ICD_9999,23,2,2,Complic med care NEC/NOS,"Other and unspecified complications of medical care, not elsewhere classified"
+ICD_V1551,23,3,3,Hx traumatic fracture,Personal history of traumatic fracture
+ICD_72887,23,5,6,Muscle weakness-general,Muscle weakness (generalized)
+ICD_53190,23,3,7,Stomach ulcer NOS,"Gastric ulcer, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction"
+ICD_2819,23,3,4,Deficiency anemia NOS,Unspecified deficiency anemia
+ICD_41011,23,3,3,"AMI anterior wall, init","Acute myocardial infarction of other anterior wall, initial episode of care"
+ICD_82021,23,0,0,Intertrochanteric fx-cl,Closed fracture of intertrochanteric section of neck of femur
+ICD_V446,23,4,8,Urinostomy status NEC,Other artificial opening of urinary tract status
+ICD_78900,23,3,9,Abdmnal pain unspcf site,"Abdominal pain, unspecified site"
+ICD_V4283,23,15,37,Trnspl status-pancreas,Pancreas replaced by transplant
+ICD_3559,23,2,3,Mononeuritis NOS,Mononeuritis of unspecified site
+ICD_53540,23,2,2,Oth spf gstrt w/o hmrhg,"Other specified gastritis, without mention of hemorrhage"
+ICD_78194,23,0,0,Facial weakness,Facial weakness
+ICD_78702,22,2,2,Nausea alone,Nausea alone
+ICD_35800,22,13,19,Mysthna grvs w/o ac exac,Myasthenia gravis without (acute) exacerbation
+ICD_45381,22,0,0,Ac embl suprfcl up ext,Acute venous embolism and thrombosis of superficial veins of upper extremity
+ICD_11284,22,1,1,Candidal esophagitis,Candidal esophagitis
+ICD_5531,22,6,6,Umbilical hernia,Umbilical hernia without mention of obstruction or gangrene
+ICD_78062,22,0,0,Postprocedural fever,Postprocedural fever
+ICD_49392,22,8,8,Asthma NOS w (ac) exac,"Asthma, unspecified type, with (acute) exacerbation"
+ICD_7295,22,2,3,Pain in limb,Pain in limb
+ICD_41511,22,2,2,Iatrogen pulm emb/infarc,Iatrogenic pulmonary embolism and infarction
+ICD_30550,22,3,3,Opioid abuse-unspec,"Opioid abuse, unspecified"
+ICD_7766,22,11,11,Anemia of prematurity,Anemia of prematurity
+ICD_99762,22,2,2,Infection amputat stump,Infection (chronic) of amputation stump
+ICD_2910,22,4,4,Delirium tremens,Alcohol withdrawal delirium
+ICD_99669,22,0,0,React-int pros devic NEC,"Infection and inflammatory reaction due to other internal prosthetic device, implant, and graft"
+ICD_501,22,9,11,Asbestosis,Asbestosis
+ICD_57410,22,0,0,Cholelith w cholecys NEC,"Calculus of gallbladder with other cholecystitis, without mention of obstruction"
+ICD_7210,22,8,10,Cervical spondylosis,Cervical spondylosis without myelopathy
+ICD_27401,22,3,4,Acute gouty arthropathy,Acute gouty arthropathy
+ICD_53642,22,1,1,Gastrostomy comp - mech,Mechanical complication of gastrostomy
+ICD_72992,21,0,0,Nontrauma hema soft tiss,Nontraumatic hematoma of soft tissue
+ICD_29620,21,2,2,Depress psychosis-unspec,"Major depressive affective disorder, single episode, unspecified"
+ICD_43882,21,8,17,Late ef CV dis dysphagia,"Other late effects of cerebrovascular disease, dysphagia"
+ICD_7135,21,9,12,Arthropathy w nerve dis,Arthropathy associated with neurological disorders
+ICD_V1042,21,14,26,Hx-uterus malignancy NEC,Personal history of malignant neoplasm of other parts of uterus
+ICD_6929,21,3,7,Dermatitis NOS,"Contact dermatitis and other eczema, unspecified cause"
+ICD_2738,21,2,2,Dis plas protein met NEC,Other disorders of plasma protein metabolism
+ICD_0549,21,1,1,Herpes simplex NOS,Herpes simplex without mention of complication
+ICD_V0259,21,2,2,Bacteria dis carrier NEC,Carrier or suspected carrier of other specified bacterial diseases
+ICD_7906,21,1,1,Abn blood chemistry NEC,Other abnormal blood chemistry
+ICD_V551,21,2,2,Atten to gastrostomy,Attention to gastrostomy
+ICD_7854,21,2,2,Gangrene,Gangrene
+ICD_7318,21,1,1,Bone involv in oth dis,Other bone involvement in diseases classified elsewhere
+ICD_V1041,21,15,26,Hx-cervical malignancy,Personal history of malignant neoplasm of cervix uteri
+ICD_V1209,21,3,3,Prsnl hst oth nfct parst,Personal history of other infectious and parasitic diseases
+ICD_73017,21,4,5,Chr osteomyelit-ankle,"Chronic osteomyelitis, ankle and foot"
+ICD_7464,20,6,6,Cong aorta valv insuffic,Congenital insufficiency of aortic valve
+ICD_V163,20,3,3,Family hx-breast malig,Family history of malignant neoplasm of breast
+ICD_4739,20,4,4,Chronic sinusitis NOS,Unspecified sinusitis (chronic)
+ICD_71941,20,1,1,Joint pain-shlder,"Pain in joint, shoulder region"
+ICD_25200,20,6,7,Hyperparathyroidism NOS,"Hyperparathyroidism, unspecified"
+ICD_73730,20,9,14,Idiopathic scoliosis,"Scoliosis [and kyphoscoliosis], idiopathic"
+ICD_2883,20,1,2,Eosinophilia,Eosinophilia
+ICD_V1009,20,12,18,Hx of GI malignancy NEC,Personal history of malignant neoplasm of other gastrointestinal tract
+ICD_E9300,20,0,0,Adv eff penicillins,Penicillins causing adverse effects in therapeutic use
+ICD_55090,20,5,7,Unilat inguinal hernia,"Inguinal hernia, without mention of obstruction or gangrene, unilateral or unspecified (not specified as recurrent)"
+ICD_70713,20,2,2,Ulcer of ankle,Ulcer of ankle
+ICD_59010,20,0,0,Ac pyelonephritis NOS,Acute pyelonephritis without lesion of renal medullary necrosis
+ICD_28489,20,2,4,Aplastic anemias NEC,Other specified aplastic anemias
+ICD_53290,20,1,1,Duodenal ulcer NOS,"Duodenal ulcer, unspecified as acute or chronic, without hemorrhage or perforation, without mention of obstruction"
+ICD_E8844,20,0,0,Fall from bed,Accidental fall from bed
+ICD_5778,20,3,6,Pancreatic disease NEC,Other specified diseases of pancreas
+ICD_V1021,20,13,17,Hx-laryngeal malignancy,Personal history of malignant neoplasm of larynx
+ICD_1991,20,6,9,Malignant neoplasm NOS,Other malignant neoplasm without specification of site
+ICD_1978,20,6,7,Sec mal neo GI NEC,Secondary malignant neoplasm of other digestive organs and spleen
+ICD_34510,20,2,3,Gen cnv epil w/o intr ep,"Generalized convulsive epilepsy, without mention of intractable epilepsy"
+ICD_V642,20,1,1,No proc/patient decision,Surgical or other procedure not carried out because of patient's decision
+ICD_77989,20,5,5,Perinatal condition NEC,Other specified conditions originating in the perinatal period
+ICD_V552,20,1,1,Atten to ileostomy,Attention to ileostomy
+ICD_4571,20,5,6,Other lymphedema,Other lymphedema
+ICD_E9323,19,2,2,Adv eff insulin/antidiab,Insulins and antidiabetic agents causing adverse effects in therapeutic use
+ICD_36960,19,7,7,"Blindness, one eye","Profound impairment, one eye, impairment level not further specified"
+ICD_5790,19,9,14,Celiac disease,Celiac disease
+ICD_2441,19,5,12,Postablat hypothyr NEC,Other postablative hypothyroidism
+ICD_56729,19,2,2,Suppurat peritonitis NEC,Other suppurative peritonitis
+ICD_2411,19,8,10,Nontox multinodul goiter,Nontoxic multinodular goiter
+ICD_99667,19,1,1,React-oth int ortho dev,"Infection and inflammatory reaction due to other internal orthopedic device, implant, and graft"
+ICD_28731,19,10,15,Immune thrombocyt purpra,Immune thrombocytopenic purpura
+ICD_99649,19,4,4,Mech com orth dev NEC,"Other mechanical complication of other internal orthopedic device, implant, and graft"
+ICD_55320,19,1,2,Ventral hernia NOS,"Ventral, unspecified, hernia without mention of obstruction or gangrene"
+ICD_5178,19,10,14,Lung involv in oth dis,Lung involvement in other diseases classified elsewhere
+ICD_57400,19,1,1,Cholelith w ac cholecyst,"Calculus of gallbladder with acute cholecystitis, without mention of obstruction"
+ICD_3241,19,5,6,Intraspinal abscess,Intraspinal abscess
+ICD_71945,19,2,3,Joint pain-pelvis,"Pain in joint, pelvic region and thigh"
+ICD_2384,19,16,21,Polycythemia vera,Polycythemia vera
+ICD_73007,19,2,2,Ac osteomyelitis-ankle,"Acute osteomyelitis, ankle and foot"
+ICD_44022,19,3,3,Ath ext ntv at w rst pn,Atherosclerosis of native arteries of the extremities with rest pain
+ICD_4561,19,6,6,Esoph varices w/o bleed,Esophageal varices without mention of bleeding
+ICD_7872,19,1,1,,
+ICD_2535,19,9,18,Diabetes insipidus,Diabetes insipidus
+ICD_30503,19,2,2,Alcohol abuse-in remiss,"Alcohol abuse, in remission"
+ICD_56039,19,0,0,Impaction intestine NEC,Other impaction of intestine
+ICD_9951,19,9,11,Angioneurotic edema,"Angioneurotic edema, not elsewhere classified"
+ICD_30400,18,1,1,Opioid dependence-unspec,"Opioid type dependence, unspecified"
+ICD_4423,18,1,1,Lower extremity aneurysm,Aneurysm of artery of lower extremity
+ICD_73027,18,3,3,Osteomyelitis NOS-ankle,"Unspecified osteomyelitis, ankle and foot"
+ICD_2532,18,7,21,Panhypopituitarism,Panhypopituitarism
+ICD_4532,18,3,3,Oth inf vena cava thromb,Other venous embolism and thrombosis of inferior vena cava
+ICD_1974,18,3,4,Sec malig neo sm bowel,Secondary malignant neoplasm of small intestine including duodenum
+ICD_20510,18,10,15,Ch myl leuk wo achv rmsn,"Chronic myeloid leukemia, without mention of having achieved remission"
+ICD_E9429,18,2,2,Adv eff cardiovasc NEC,Other and unspecified agents primarily affecting the cardiovascular system causing adverse effects in therapeutic use
+ICD_9072,18,5,6,Late eff spinal cord inj,Late effect of spinal cord injury
+ICD_5128,18,0,0,,
+ICD_V113,18,0,0,Hx of alcoholism,Personal history of alcoholism
+ICD_V463,18,3,4,Wheelchair dependence,Wheelchair dependence
+ICD_V161,18,1,1,Fm hx-trach/bronchog mal,"Family history of malignant neoplasm of trachea, bronchus, and lung"
+ICD_5839,18,7,15,Nephritis NOS,"Nephritis and nephropathy, not specified as acute or chronic, with unspecified pathological lesion in kidney"
+ICD_V1749,18,0,0,Fam hx-cardiovas dis NEC,Family history of other cardiovascular diseases
+ICD_11289,18,1,1,Candidiasis site NEC,Other candidiasis of other specified sites
+ICD_04109,18,4,5,Other streptococcus,"Streptococcus infection in conditions classified elsewhere and of unspecified site, other streptococcus"
+ICD_481,18,3,3,Pneumococcal pneumonia,Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia]
+ICD_48282,18,3,3,Pneumonia e coli,Pneumonia due to escherichia coli [E. coli]
+ICD_7824,18,1,1,Jaundice NOS,"Jaundice, unspecified, not of newborn"
+ICD_7755,18,0,0,Neonatal dehydration,Other transitory neonatal electrolyte disturbances
+ICD_1984,18,4,4,Sec malig neo nerve NEC,Secondary malignant neoplasm of other parts of nervous system
+ICD_78321,18,1,1,Abnormal loss of weight,Loss of weight
+ICD_1578,17,3,4,Malig neo pancreas NEC,Malignant neoplasm of other specified sites of pancreas
+ICD_E9426,17,0,0,Adv eff antihyperten agt,Other antihypertensive agents causing adverse effects in therapeutic use
+ICD_36221,17,11,11,Retrolental fibroplasia,Retrolental fibroplasia
+ICD_E8784,17,0,0,Abn react-plast surg NEC,"Other restorative surgery causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation"
+ICD_4238,17,3,4,Pericardial disease NEC,Other specified diseases of pericardium
+ICD_1123,17,1,2,Cutaneous candidiasis,Candidiasis of skin and nails
+ICD_V5883,17,0,0,Therapeutic drug monitor,Encounter for therapeutic drug monitoring
+ICD_75312,17,13,14,Polycystic kidney NOS,"Polycystic kidney, unspecified type"
+ICD_28249,17,11,11,Thalassemia NEC,Other thalassemia
+ICD_51852,17,0,0,Ot pul insuf fol trm/srg,"Other pulmonary insufficiency, not elsewhere classified, following trauma and surgery"
+ICD_25052,17,1,3,DMII ophth uncntrld,"Diabetes with ophthalmic manifestations, type II or unspecified type, uncontrolled"
+ICD_E9504,17,6,7,Poison-drug/medicin NEC,Suicide and self-inflicted poisoning by other specified drugs and medicinal substances
+ICD_5693,17,1,1,Rectal & anal hemorrhage,Hemorrhage of rectum and anus
+ICD_3363,17,6,7,Myelopathy in oth dis,Myelopathy in other diseases classified elsewhere
+ICD_2769,17,0,0,Electrolyt/fluid dis NEC,Electrolyte and fluid disorders not elsewhere classified
+ICD_44103,17,5,5,Dsct of thoracoabd aorta,"Dissection of aorta, thoracoabdominal"
+ICD_39890,17,5,7,Rheumatic heart dis NOS,"Rheumatic heart disease, unspecified"
+ICD_E8799,17,1,1,Abn react-procedure NOS,"Unspecified procedure as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure"
+ICD_E9479,17,1,1,Adv eff medicinal NOS,Unspecified drug or medicinal substance causing adverse effects in therapeutic use
+ICD_2387,17,12,18,,
+ICD_V1279,17,1,1,Prsnl hst ot spf dgst ds,Personal history of other diseases of digestive system
+ICD_7905,17,0,0,Abn serum enzy level NEC,Other nonspecific abnormal serum enzyme levels
+ICD_7213,17,4,5,Lumbosacral spondylosis,Lumbosacral spondylosis without myelopathy
+ICD_3510,16,4,5,Bell's palsy,Bell's palsy
+ICD_9992,16,0,0,Vasc comp med care NEC,"Other vascular complications of medical care, not elsewhere classified"
+ICD_4660,16,1,1,Acute bronchitis,Acute bronchitis
+ICD_30183,16,10,17,Borderline personality,Borderline personality disorder
+ICD_43883,16,3,5,Facial weakness,"Other late effects of cerebrovascular disease, facial weakness"
+ICD_9349,16,0,0,FB respiratory tree NOS,"Foreign body in respiratory tree, unspecified"
+ICD_4786,16,2,3,Edema of larynx,Edema of larynx
+ICD_V6441,16,0,0,Lap surg convert to open,Laparoscopic surgical procedure converted to open procedure
+ICD_78606,16,0,0,Tachypnea,Tachypnea
+ICD_3371,16,7,49,Aut neuropthy in oth dis,Peripheral autonomic neuropathy in disorders classified elsewhere
+ICD_7707,16,10,10,Perinatal chr resp dis,Chronic respiratory disease arising in the perinatal period
+ICD_24290,16,3,3,Thyrotox NOS no crisis,"Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm"
+ICD_3332,16,2,3,Myoclonus,Myoclonus
+ICD_3331,16,5,6,Tremor NEC,Essential and other specified forms of tremor
+ICD_V160,16,2,3,Family hx-gi malignancy,Family history of malignant neoplasm of gastrointestinal tract
+ICD_1912,16,5,9,Mal neo temporal lobe,Malignant neoplasm of temporal lobe
+ICD_42840,16,0,0,Syst/diast hrt fail NOS,"Combined systolic and diastolic heart failure, unspecified"
+ICD_42613,16,2,3,Av block-2nd degree NEC,Other second degree atrioventricular block
+ICD_20190,16,10,12,Hdgk dis unsp xtrndl org,"Hodgkin's disease, unspecified type, unspecified site, extranodal and solid organ sites"
+ICD_E9305,16,0,0,Adv eff cephalosporin,Cephalosporin group causing adverse effects in therapeutic use
+ICD_03840,16,0,0,Gram-neg septicemia NOS,"Septicemia due to gram-negative organism, unspecified"
+ICD_25011,16,6,14,DMI keto nt st uncntrld,"Diabetes with ketoacidosis, type I [juvenile type], not stated as uncontrolled"
+ICD_7101,16,13,23,Systemic sclerosis,Systemic sclerosis
+ICD_2880,16,1,1,,
+ICD_5716,16,10,11,Biliary cirrhosis,Biliary cirrhosis
+ICD_53782,16,2,2,Angio stm/dudn w/o hmrhg,Angiodysplasia of stomach and duodenum without mention of hemorrhage
+ICD_V4585,16,2,2,Insulin pump status,Insulin pump status
+ICD_4659,16,1,1,Acute uri NOS,Acute upper respiratory infections of unspecified site
+ICD_5730,15,0,0,Chr passiv congest liver,Chronic passive congestion of liver
+ICD_78650,15,1,1,Chest pain NOS,"Chest pain, unspecified"
+ICD_53020,15,0,0,Ulc esophagus w/o bleed,Ulcer of esophagus without bleeding
+ICD_73679,15,3,11,Acq ankle-foot def NEC,Other acquired deformities of ankle and foot
+ICD_5921,15,1,1,Calculus of ureter,Calculus of ureter
+ICD_5855,15,2,2,Chron kidney dis stage V,"Chronic kidney disease, Stage V"
+ICD_40301,15,7,58,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease"
+ICD_42611,15,3,3,Atriovent block-1st degr,First degree atrioventricular block
+ICD_36900,15,7,7,Both eyes blind-who def,"Profound impairment, both eyes, impairment level not further specified"
+ICD_6960,15,10,20,Psoriatic arthropathy,Psoriatic arthropathy
+ICD_73342,15,4,5,Aseptic necrosis femur,Aseptic necrosis of head and neck of femur
+ICD_43311,15,1,1,Ocl crtd art w infrct,Occlusion and stenosis of carotid artery with cerebral infarction
+ICD_57451,15,0,0,Choledochlith NOS w obst,"Calculus of bile duct without mention of cholecystitis, with obstruction"
+ICD_42989,15,2,2,Ill-defined hrt dis NEC,Other ill-defined heart diseases
+ICD_1911,15,13,14,Malig neo frontal lobe,Malignant neoplasm of frontal lobe
+ICD_25081,15,5,5,DMI oth nt st uncntrld,"Diabetes with other specified manifestations, type I [juvenile type], not stated as uncontrolled"
+ICD_56985,15,2,3,Angio intes w hmrhg,Angiodysplasia of intestine with hemorrhage
+ICD_V4281,15,5,10,Trnspl status-bne marrow,Bone marrow replaced by transplant
+ICD_V851,15,2,2,"BMI between 19-24,adult","Body Mass Index between 19-24, adult"
+ICD_99813,15,1,1,Seroma complicting proc,Seroma complicating a procedure
+ICD_5733,15,0,0,Hepatitis NOS,"Hepatitis, unspecified"
+ICD_4255,15,6,12,Alcoholic cardiomyopathy,Alcoholic cardiomyopathy
+ICD_V140,15,2,2,Hx-penicillin allergy,Personal history of allergy to penicillin
+ICD_47831,15,2,2,Vocal paral unilat part,"Unilateral paralysis of vocal cords or larynx, partial"
+ICD_44381,15,1,1,Angiopathy in other dis,Peripheral angiopathy in diseases classified elsewhere
+ICD_7098,15,0,0,Skin disorders NEC,Other specified disorders of skin
+ICD_99709,15,2,2,Surg comp nerv systm NEC,Other nervous system complications
+ICD_4552,15,2,3,Int hemrrhoid w comp NEC,Internal hemorrhoids with other complication
+ICD_73710,15,1,1,Kyphosis NOS,Kyphosis (acquired) (postural)
+ICD_V502,15,0,0,Routine circumcision,Routine or ritual circumcision
+ICD_V1043,15,12,19,Hx of ovarian malignancy,Personal history of malignant neoplasm of ovary
+ICD_V8541,15,2,2,"BMI 40.0-44.9, adult","Body Mass Index 40.0-44.9, adult"
+ICD_8052,15,1,1,Fx dorsal vertebra-close,Closed fracture of dorsal [thoracic] vertebra without mention of spinal cord injury
+ICD_5934,15,3,3,Ureteric obstruction NEC,Other ureteric obstruction
+ICD_2989,15,2,2,Psychosis NOS,Unspecified psychosis
+ICD_2111,15,3,5,Benign neoplasm stomach,Benign neoplasm of stomach
+ICD_5695,15,1,1,Intestinal abscess,Abscess of intestine
+ICD_1508,14,8,9,Mal neo esophagus NEC,Malignant neoplasm of other specified part of esophagus
+ICD_27549,14,4,6,Dis calcium metablsm NEC,Other disorders of calcium metabolism
+ICD_4846,14,2,2,Pneum in aspergillosis,Pneumonia in aspergillosis
+ICD_85201,14,0,0,Subarachnoid hem-no coma,"Subarachnoid hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness"
+ICD_0539,14,1,1,Herpes zoster NOS,Herpes zoster without mention of complication
+ICD_99602,14,1,1,Malfunc prosth hrt valve,Mechanical complication due to heart valve prosthesis
+ICD_34550,14,1,1,Part epil w/o intr epil,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy"
+ICD_71946,14,1,1,Joint pain-l/leg,"Pain in joint, lower leg"
+ICD_40291,14,0,0,Hyp ht dis NOS w ht fail,Unspecified hypertensive heart disease with heart failure
+ICD_07999,14,0,0,Viral infection NOS,Unspecified viral infection
+ICD_44489,14,4,5,Arterial embolism NEC,Embolism and thrombosis of other specified artery
+ICD_9694,14,5,5,Pois-benzodiazepine tran,Poisoning by benzodiazepine-based tranquilizers
+ICD_99666,14,3,3,React-inter joint prost,Infection and inflammatory reaction due to internal joint prosthesis
+ICD_79311,14,1,1,Solitary pulmonry nodule,Solitary pulmonary nodule
+ICD_07071,14,1,1,Hpt C w hepatic coma NOS,Unspecified viral hepatitis C with hepatic coma
+ICD_53082,14,3,3,Esophageal hemorrhage,Esophageal hemorrhage
+ICD_E9379,14,0,0,Adv eff sedat/hypnot NOS,Unspecified sedatives and hypnotics causing adverse effects in therapeutic use
+ICD_7892,14,3,3,Splenomegaly,Splenomegaly
+ICD_7470,14,4,4,Patent ductus arteriosus,Patent ductus arteriosus
+ICD_73018,14,3,6,Chr osteomyelit NEC,"Chronic osteomyelitis, other specified sites"
+ICD_28959,14,4,4,Spleen disease NEC,Other diseases of spleen
+ICD_2410,14,3,3,Nontox uninodular goiter,Nontoxic uninodular goiter
+ICD_7810,14,2,2,Abn involun movement NEC,Abnormal involuntary movements
+ICD_2810,14,6,8,Pernicious anemia,Pernicious anemia
+ICD_31401,14,10,19,Attn deficit w hyperact,Attention deficit disorder with hyperactivity
+ICD_78451,14,1,1,Dysarthria,Dysarthria
+ICD_2967,14,7,11,Bipolor I current NOS,"Bipolar I disorder, most recent episode (or current) unspecified"
+ICD_E9293,14,2,2,Late eff accidental fall,Late effects of accidental fall
+ICD_57450,14,1,1,Choledocholithiasis NOS,"Calculus of bile duct without mention of cholecystitis, without mention of obstruction"
+ICD_04189,14,0,0,Oth specf bacteria,"Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other specified bacteria"
+ICD_45382,14,1,2,Ac DVT/embl up ext,Acute venous embolism and thrombosis of deep veins of upper extremity
+ICD_2409,14,8,21,Goiter NOS,"Goiter, unspecified"
+ICD_1363,14,3,3,Pneumocystosis,Pneumocystosis
+ICD_57511,13,0,0,Chronic cholecystitis,Chronic cholecystitis
+ICD_29650,13,6,6,Bipol I cur depres NOS,"Bipolar I disorder, most recent episode (or current) depressed, unspecified"
+ICD_E9359,13,3,3,Adv eff analgesic NOS,Unspecified analgesic and antipyretic causing adverse effects in therapeutic use
+ICD_4010,13,0,0,Malignant hypertension,Malignant essential hypertension
+ICD_7948,13,0,0,Abn liver function study,Nonspecific abnormal results of function study of liver
+ICD_2731,13,3,3,Monoclon paraproteinemia,Monoclonal paraproteinemia
+ICD_72973,13,0,0,Nontrauma comp syn-abd,Nontraumatic compartment syndrome of abdomen
+ICD_72981,13,0,0,Swelling of limb,Swelling of limb
+ICD_1570,13,7,8,Mal neo pancreas head,Malignant neoplasm of head of pancreas
+ICD_1971,13,4,4,Sec mal neo mediastinum,Secondary malignant neoplasm of mediastinum
+ICD_7919,13,0,0,Abn urine findings NEC,Other nonspecific findings on examination of urine
+ICD_V1004,13,3,3,Hx of gastric malignancy,Personal history of malignant neoplasm of stomach
+ICD_7963,13,0,0,Low blood press reading,Nonspecific low blood pressure reading
+ICD_71906,13,2,2,Joint effusion-l/leg,"Effusion of joint, lower leg"
+ICD_4162,13,1,1,Chr pulmonary embolism,Chronic pulmonary embolism
+ICD_3379,13,2,2,Autonomic nerve dis NEC,Unspecified disorder of autonomic nervous system
+ICD_37230,13,1,1,Conjunctivitis NOS,"Conjunctivitis, unspecified"
+ICD_V1072,13,7,9,Hx-hodgkin's disease,Personal history of hodgkin's disease
+ICD_33182,13,4,5,Dementia w Lewy bodies,Dementia with lewy bodies
+ICD_5100,13,5,7,Empyema with fistula,Empyema with fistula
+ICD_3439,13,10,15,Cerebral palsy NOS,"Infantile cerebral palsy, unspecified"
+ICD_56949,13,2,2,Rectal & anal dis NEC,Other specified disorders of rectum and anus
+ICD_E9310,13,0,0,Adv eff sulfonamides,Sulfonamides causing adverse effects in therapeutic use
+ICD_56889,13,1,1,Peritoneal disorder NEC,Other specified disorders of peritoneum
+ICD_V1089,13,3,8,Hx of malignancy NEC,Personal history of malignant neoplasm of other sites
+ICD_78065,13,2,2,Hypothrm-wo low env tmp,Hypothermia not associated with low environmental temperature
+ICD_70712,13,1,2,Ulcer of calf,Ulcer of calf
+ICD_E9363,13,1,1,Adv eff antconvl NEC/NOS,Other and unspecified anticonvulsants causing adverse effects in therapeutic use
+ICD_41092,13,0,0,"AMI NOS, subsequent","Acute myocardial infarction of unspecified site, subsequent episode of care"
+ICD_07051,13,4,4,Hpt C acute wo hpat coma,Acute hepatitis C without mention of hepatic coma
+ICD_55221,13,1,1,Obstr incisional hernia,Incisional ventral hernia with obstruction
+ICD_76527,13,11,11,33-34 comp wks gestation,33-34 completed weeks of gestation
+ICD_5168,13,2,10,Alveol pneumonopathy NEC,Other specified alveolar and parietoalveolar pneumonopathies
+ICD_E9503,13,6,6,Poison-psychotropic agt,Suicide and self-inflicted poisoning by tranquilizers and other psychotropic agents
+ICD_2830,13,7,13,Autoimmun hemolytic anem,Autoimmune hemolytic anemias
+ICD_2721,12,8,14,Pure hyperglyceridemia,Pure hyperglyceridemia
+ICD_52100,12,0,0,Dental caries NOS,"Dental caries, unspecified"
+ICD_49122,12,0,0,Obs chr bronc w ac bronc,Obstructive chronic bronchitis with acute bronchitis
+ICD_2811,12,2,2,B12 defic anemia NEC,Other vitamin B12 deficiency anemia
+ICD_3488,12,0,0,,
+ICD_V1584,12,3,4,Hx-contct/expos asbestos,Personal history of contact with and (suspected) exposure to asbestos
+ICD_4870,12,0,0,Influenza with pneumonia,Influenza with pneumonia
+ICD_V1552,12,3,3,Hx traumatc brain injury,Personal history of traumatic brain injury
+ICD_262,12,0,0,Oth severe malnutrition,Other severe protein-calorie malnutrition
+ICD_29530,12,6,7,Paranoid schizo-unspec,"Paranoid type schizophrenia, unspecified"
+ICD_25092,12,1,1,DMII unspf uncntrld,"Diabetes with unspecified complication, type II or unspecified type, uncontrolled"
+ICD_30421,12,3,8,Cocaine depend-contin,"Cocaine dependence, continuous"
+ICD_36846,12,2,2,Homonymous hemianopsia,Homonymous bilateral field defects
+ICD_56721,12,0,0,Peritonitis (acute) gen,Peritonitis (acute) generalized
+ICD_59381,12,1,1,Renal vascular disorder,Vascular disorders of kidney
+ICD_4389,12,1,1,Late effect CV dis NOS,Unspecified late effects of cerebrovascular disease
+ICD_E8708,12,1,1,Acc cut in med care NEC,"Accidental cut, puncture, perforation or hemorrhage during other specified medical care"
+ICD_4556,12,1,1,Hemorrhoids NOS,Unspecified hemorrhoids without mention of complication
+ICD_5110,12,1,3,Pleurisy w/o effus or TB,Pleurisy without mention of effusion or current tuberculosis
+ICD_V8543,12,1,1,"BMI 50.0-59.9, adult","Body Mass Index 50.0-59.9, adult"
+ICD_7866,12,2,2,Chest swelling/mass/lump,"Swelling, mass, or lump in chest"
+ICD_5679,12,0,0,Peritonitis NOS,Unspecified peritonitis
+ICD_9348,12,1,1,FB trach/bronch/lung NEC,Foreign body in other specified parts bronchus and lung
+ICD_2839,12,3,3,Acq hemolytic anemia NOS,"Acquired hemolytic anemia, unspecified"
+ICD_9654,12,3,3,Pois-arom analgesics NEC,"Poisoning by aromatic analgesics, not elsewhere classified"
+ICD_4329,12,0,0,Intracranial hemorr NOS,Unspecified intracranial hemorrhage
+ICD_99604,12,2,3,Mch cmp autm mplnt dfbrl,Mechanical complication of automatic implantable cardiac defibrillator
+ICD_2949,12,0,0,Mental disor NOS oth dis,Unspecified persistent mental disorders due to conditions classified elsewhere
+ICD_E9500,12,4,4,Poison-analgesics,"Suicide and self-inflicted poisoning by analgesics, antipyretics, and antirheumatics"
+ICD_4422,12,5,5,Iliac artery aneurysm,Aneurysm of iliac artery
+ICD_53021,12,2,2,Ulcer esophagus w bleed,Ulcer of esophagus with bleeding
+ICD_71106,12,1,1,Pyogen arthritis-l/leg,"Pyogenic arthritis, lower leg"
+ICD_7580,12,11,13,Down's syndrome,Down's syndrome
+ICD_4230,12,0,0,Hemopericardium,Hemopericardium
+ICD_317,12,6,12,Mild intellect disabilty,Mild intellectual disabilities
+ICD_485,12,2,2,Bronchopneumonia org NOS,"Bronchopneumonia, organism unspecified"
+ICD_40300,12,1,1,Mal hy kid w cr kid I-IV,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage I through stage IV, or unspecified"
+ICD_60886,11,1,1,"Edema, male genital orgn",Edema of male genital organs
+ICD_4359,11,0,0,Trans cereb ischemia NOS,Unspecified transient cerebral ischemia
+ICD_59080,11,0,0,Pyelonephritis NOS,"Pyelonephritis, unspecified"
+ICD_04184,11,0,0,Other anaerobes,"Other specified bacterial infections in conditions classified elsewhere and of unspecified site, other anaerobes"
+ICD_29562,11,5,5,Schizophr dis resid-chr,"Schizophrenic disorders, residual type, chronic"
+ICD_7243,11,3,3,Sciatica,Sciatica
+ICD_V854,11,3,3,,
+ICD_41412,11,0,0,Dissection cor artery,Dissection of coronary artery
+ICD_4558,11,1,1,Hemrrhoid NOS w comp NEC,Unspecified hemorrhoids with other complication
+ICD_6989,11,0,0,Pruritic disorder NOS,Unspecified pruritic disorder
+ICD_29689,11,2,3,Bipolar disorder NEC,Other bipolar disorders
+ICD_30561,11,2,3,Cocaine abuse-continuous,"Cocaine abuse, continuous"
+ICD_2888,11,0,0,Wbc disease NEC,Other specified disease of white blood cells
+ICD_4372,11,0,0,Hypertens encephalopathy,Hypertensive encephalopathy
+ICD_53541,11,0,0,Oth spf gastrt w hmrhg,"Other specified gastritis, with hemorrhage"
+ICD_4582,11,1,1,,
+ICD_3968,11,4,5,Mitr/aortic mult involv,Multiple involvement of mitral and aortic valves
+ICD_4464,11,7,19,Wegener's granulomatosis,Wegener's granulomatosis
+ICD_7211,11,0,0,Cerv spondyl w myelopath,Cervical spondylosis with myelopathy
+ICD_9950,11,1,1,Other anaphylactic react,Other anaphylactic reaction
+ICD_47874,11,2,2,Stenosis of larynx,Stenosis of larynx
+ICD_72293,11,2,2,Disc dis NEC/NOS-lumbar,"Other and unspecified disc disorder, lumbar region"
+ICD_E9361,11,1,2,Adv eff hydantoin deriv,Hydantoin derivatives causing adverse effects in therapeutic use
+ICD_77981,11,1,1,Neonatal bradycardia,Neonatal bradycardia
+ICD_5130,11,1,1,Abscess of lung,Abscess of lung
+ICD_72210,11,2,5,Lumbar disc displacement,Displacement of lumbar intervertebral disc without myelopathy
+ICD_04102,11,0,0,Streptococcus group b,"Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group B"
+ICD_58281,11,7,34,Chr nephritis in oth dis,Chronic glomerulonephritis in diseases classified elsewhere
+ICD_5932,11,0,0,"Cyst of kidney, acquired","Cyst of kidney, acquired"
+ICD_8020,11,3,3,Nasal bone fx-closed,Closed fracture of nasal bones
+ICD_5370,11,0,0,Acq pyloric stenosis,Acquired hypertrophic pyloric stenosis
+ICD_769,11,8,8,Respiratory distress syn,Respiratory distress syndrome in newborn
+ICD_72190,11,3,3,Spondylos NOS w/o myelop,"Spondylosis of unspecified site, without mention of myelopathy"
+ICD_1121,11,1,1,Candidal vulvovaginitis,Candidiasis of vulva and vagina
+ICD_2740,11,4,7,,
+ICD_78729,10,1,1,Dysphagia NEC,Other dysphagia
+ICD_4169,10,2,2,Chr pulmon heart dis NOS,"Chronic pulmonary heart disease, unspecified"
+ICD_44481,10,0,0,Iliac artery embolism,Embolism and thrombosis of iliac artery
+ICD_24200,10,1,20,Tox dif goiter no crisis,Toxic diffuse goiter without mention of thyrotoxic crisis or storm
+ICD_78603,10,0,0,Apnea,Apnea
+ICD_71595,10,1,1,Osteoarthros NOS-pelvis,"Osteoarthrosis, unspecified whether generalized or localized, pelvic region and thigh"
+ICD_2858,10,0,0,Anemia NEC,Other specified anemias
+ICD_30520,10,1,1,Cannabis abuse-unspec,"Cannabis abuse, unspecified"
+ICD_53200,10,1,1,Ac duodenal ulcer w hem,"Acute duodenal ulcer with hemorrhage, without mention of obstruction"
+ICD_V071,10,2,7,Desensitiza to allergens,Need for desensitization to allergens
+ICD_73382,10,0,0,Nonunion of fracture,Nonunion of fracture
+ICD_99601,10,2,2,Malfunc cardiac pacemake,Mechanical complication due to cardiac pacemaker (electrode)
+ICD_25083,10,2,6,DMI oth uncntrld,"Diabetes with other specified manifestations, type I [juvenile type], uncontrolled"
+ICD_2939,10,0,0,Transient mental dis NOS,Unspecified transient mental disorder in conditions classified elsewhere
+ICD_3003,10,4,8,Obsessive-compulsive dis,Obsessive-compulsive disorders
+ICD_7804,10,1,1,Dizziness and giddiness,Dizziness and giddiness
+ICD_78909,10,0,0,Abdmnal pain oth spcf st,"Abdominal pain, other specified site"
+ICD_79431,10,0,0,Abnorm electrocardiogram,Nonspecific abnormal electrocardiogram [ECG] [EKG]
+ICD_44421,10,0,0,Upper extremity embolism,Arterial embolism and thrombosis of upper extremity
+ICD_33819,10,0,0,Acute pain NEC,Other acute pain
+ICD_42769,10,1,1,Premature beats NEC,Other premature beats
+ICD_56989,10,0,0,Intestinal disorders NEC,Other specified disorders of intestine
+ICD_76518,10,10,10,Preterm NEC 2000-2499g,"Other preterm infants, 2,000-2,499 grams"
+ICD_4476,10,3,5,Arteritis NOS,"Arteritis, unspecified"
+ICD_60784,10,4,4,"Impotence, organic orign",Impotence of organic origin
+ICD_1551,10,4,5,Mal neo intrahepat ducts,Malignant neoplasm of intrahepatic bile ducts
+ICD_1975,10,3,3,Sec malig neo lg bowel,Secondary malignant neoplasm of large intestine and rectum
+ICD_29690,10,1,1,Episodic mood disord NOS,Unspecified episodic mood disorder
+ICD_7991,10,0,0,Respiratory arrest,Respiratory arrest
+ICD_2825,9,8,16,Sickle-cell trait,Sickle-cell trait
+ICD_5602,9,1,1,Volvulus of intestine,Volvulus
+ICD_7862,9,0,0,Cough,Cough
+ICD_72886,9,0,0,Necrotizing fasciitis,Necrotizing fasciitis
+ICD_3229,9,0,0,Meningitis NOS,"Meningitis, unspecified"
+ICD_77181,9,2,2,NB septicemia [sepsis],Septicemia [sepsis] of newborn
+ICD_E9358,9,0,0,Adv eff analgesics NEC,Other specified analgesics and antipyretics causing adverse effects in therapeutic use
+ICD_5848,9,1,1,Acute kidney failure NEC,Acute kidney failure with other specified pathological lesion in kidney
+ICD_7876,9,1,2,,
+ICD_04110,9,0,0,Staphylococcus unspcfied,"Staphylococcus infection in conditions classified elsewhere and of unspecified site, staphylococcus, unspecified"
+ICD_8054,9,0,0,Fx lumbar vertebra-close,Closed fracture of lumbar vertebra without mention of spinal cord injury
+ICD_4232,9,1,1,Constrictiv pericarditis,Constrictive pericarditis
+ICD_7102,9,6,11,Sicca syndrome,Sicca syndrome
+ICD_56982,9,1,1,Ulceration of intestine,Ulceration of intestine
+ICD_4408,9,2,2,Atherosclerosis NEC,Atherosclerosis of other specified arteries
+ICD_42841,9,0,0,Ac syst/diastol hrt fail,Acute combined systolic and diastolic heart failure
+ICD_4440,9,1,1,,
+ICD_3240,9,4,4,Intracranial abscess,Intracranial abscess
+ICD_53784,9,2,2,"Dieulafoy les,stom&duod",Dieulafoy lesion (hemorrhagic) of stomach and duodenum
+ICD_0382,9,2,2,Pneumococcal septicemia,Pneumococcal septicemia [Streptococcus pneumoniae septicemia]
+ICD_2270,9,3,3,Benign neoplasm adrenal,Benign neoplasm of adrenal gland
+ICD_2750,9,5,6,,
+ICD_2900,9,3,3,Senile dementia uncomp,"Senile dementia, uncomplicated"
+ICD_138,9,6,8,Late effect acute polio,Late effects of acute poliomyelitis
+ICD_1888,9,2,2,Malig neo bladder NEC,Malignant neoplasm of other specified sites of bladder
+ICD_7820,9,0,0,Skin sensation disturb,Disturbance of skin sensation
+ICD_7231,9,0,0,Cervicalgia,Cervicalgia
+ICD_99593,9,0,0,SIRS-noninf w/o ac or ds,Systemic inflammatory response syndrome due to noninfectious process without acute organ dysfunction
+ICD_96509,9,1,1,Poisoning-opiates NEC,Poisoning by other opiates and related narcotics
+ICD_9998,9,0,0,,
+ICD_7230,8,2,2,Cervical spinal stenosis,Spinal stenosis in cervical region
+ICD_4417,8,1,1,Thracabd anurysm wo rupt,"Thoracoabdominal aneurysm, without mention of rupture"
+ICD_71535,8,4,6,Loc osteoarth NOS-pelvis,"Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh"
+ICD_99679,8,0,0,Comp-int prost devic NEC,"Other complications due to other internal prosthetic device, implant, and graft"
+ICD_44102,8,1,1,Dsct of abdominal aorta,"Dissection of aorta, abdominal"
+ICD_34292,8,0,0,Unsp hmiplga nondmnt sde,"Hemiplegia, unspecified, affecting nondominant side"
+ICD_E9378,8,0,0,Adv eff sedat/hypnot NEC,Other sedatives and hypnotics causing adverse effects in therapeutic use
+ICD_4259,8,3,5,Second cardiomyopath NOS,"Secondary cardiomyopathy, unspecified"
+ICD_8208,8,0,0,Fx neck of femur NOS-cl,Closed fracture of unspecified part of neck of femur
+ICD_V1002,8,4,4,Hx-oral/pharynx malg NEC,Personal history of malignant neoplasm of other and unspecified oral cavity and pharynx
+ICD_34291,8,0,0,Unsp hemiplga domnt side,"Hemiplegia, unspecified, affecting dominant side"
+ICD_5305,8,2,7,Dyskinesia of esophagus,Dyskinesia of esophagus
+ICD_1960,8,1,1,Mal neo lymph-head/neck,"Secondary and unspecified malignant neoplasm of lymph nodes of head, face, and neck"
+ICD_1748,8,3,3,Malign neopl breast NEC,Malignant neoplasm of other specified sites of female breast
+ICD_9351,8,2,2,Foreign body esophagus,Foreign body in esophagus
+ICD_7845,8,0,0,,
+ICD_E8532,8,2,2,Acc poisn-benzdiaz tranq,Accidental poisoning by benzodiazepine-based tranquilizers
+ICD_41081,8,0,0,"AMI NEC, initial","Acute myocardial infarction of other specified sites, initial episode of care"
+ICD_7454,8,5,6,Ventricular sept defect,Ventricular septal defect
+ICD_1963,8,3,3,Mal neo lymph-axilla/arm,Secondary and unspecified malignant neoplasm of lymph nodes of axilla and upper limb
+ICD_7783,8,1,1,NB hypothermia NEC,Other hypothermia of newborn
+ICD_76525,8,8,8,29-30 comp wks gestation,29-30 completed weeks of gestation
+ICD_8730,8,0,0,Open wound of scalp,"Open wound of scalp, without mention of complication"
+ICD_86803,8,1,1,Peritoneum injury-closed,"Injury to other intra-abdominal organs without mention of open wound into cavity, peritoneum"
+ICD_53100,8,1,1,Ac stomach ulcer w hem,"Acute gastric ulcer with hemorrhage, without mention of obstruction"
+ICD_76515,8,8,8,Preterm NEC 1250-1499g,"Other preterm infants, 1,250-1,499 grams"
+ICD_3540,8,2,2,Carpal tunnel syndrome,Carpal tunnel syndrome
+ICD_45184,8,0,0,Phlbts vn NOS up extrm,"Phlebitis and thrombophlebitis of upper extremities, unspecified"
+ICD_99881,7,0,0,Emphysema rsult frm proc,Emphysema (subcutaneous) (surgical) resulting from procedure
+ICD_7530,7,4,4,Renal agenesis,Renal agenesis and dysgenesis
+ICD_74781,7,2,3,Cerebrovascular anomaly,Anomalies of cerebrovascular system
+ICD_86121,7,1,1,Lung contusion-closed,Contusion of lung without mention of open wound into thorax
+ICD_2189,7,1,1,Uterine leiomyoma NOS,"Leiomyoma of uterus, unspecified"
+ICD_4299,7,1,1,Heart disease NOS,"Heart disease, unspecified"
+ICD_4295,7,0,0,Chordae tendinae rupture,Rupture of chordae tendineae
+ICD_1622,7,0,0,Malig neo main bronchus,Malignant neoplasm of main bronchus
+ICD_7775,7,7,7,,
+ICD_4413,7,2,2,Rupt abd aortic aneurysm,"Abdominal aneurysm, ruptured"
+ICD_85226,7,0,0,Subdural hemorr-coma NOS,"Subdural hemorrhage following injury without mention of open intracranial wound, with loss of consciousness of unspecified duration"
+ICD_80701,7,0,0,Fracture one rib-closed,Closed fracture of one rib
+ICD_E9288,7,0,0,Accident NEC,Other accidents
+ICD_5779,7,0,0,Pancreatic disease NOS,Unspecified disease of pancreas
+ICD_7955,7,0,0,,
+ICD_9916,7,1,1,Hypothermia,Hypothermia
+ICD_76517,7,6,6,Preterm NEC 1750-1999g,"Other preterm infants, 1,750-1,999 grams"
+ICD_7852,7,0,0,Cardiac murmurs NEC,Undiagnosed cardiac murmurs
+ICD_1510,7,3,4,Mal neo stomach cardia,Malignant neoplasm of cardia
+ICD_76528,7,7,7,35-36 comp wks gestation,35-36 completed weeks of gestation
+ICD_7861,7,0,0,Stridor,Stridor
+ICD_76514,7,6,6,Preterm NEC 1000-1249g,"Other preterm infants, 1,000-1,249 grams"
+ICD_76524,7,4,4,27-28 comp wks gestation,27-28 completed weeks of gestation
+ICD_E8881,7,0,0,Fall striking object NEC,Fall resulting in striking against other object
+ICD_3941,7,0,0,Rheumatic mitral insuff,Rheumatic mitral insufficiency
+ICD_76526,7,6,6,31-32 comp wks gestation,31-32 completed weeks of gestation
+ICD_80502,7,3,3,Fx c2 vertebra-closed,Closed fracture of second cervical vertebra
+ICD_920,7,0,0,Contusion face/scalp/nck,"Contusion of face, scalp, and neck except eye(s)"
+ICD_30300,7,0,0,Ac alcohol intox-unspec,"Acute alcoholic intoxication in alcoholism, unspecified"
+ICD_E8849,7,1,1,Fall-1 level to oth NEC,Other accidental fall from one level to another
+ICD_E8502,7,1,1,Acc poison-opiates NEC,Accidental poisoning by other opiates and related narcotics
+ICD_3942,7,2,2,Mitral stenosis w insuff,Mitral stenosis with insufficiency
+ICD_7842,7,0,0,Swelling in head & neck,"Swelling, mass, or lump in head and neck"
+ICD_41001,7,0,0,"AMI anterolateral, init","Acute myocardial infarction of anterolateral wall, initial episode of care"
+ICD_3960,7,0,0,Mitral/aortic stenosis,Mitral valve stenosis and aortic valve stenosis
+ICD_3480,6,1,1,Cerebral cysts,Cerebral cysts
+ICD_4553,6,1,1,Ext hemorrhoid w/o compl,External hemorrhoids without mention of complication
+ICD_3682,6,1,1,Diplopia,Diplopia
+ICD_30540,6,0,0,"Sed,hyp,anxiolytc ab-NOS","Sedative, hypnotic or anxiolytic abuse, unspecified"
+ICD_4465,6,2,2,Giant cell arteritis,Giant cell arteritis
+ICD_77089,6,1,1,Resp prob after brth NEC,Other respiratory problems after birth
+ICD_4871,6,0,0,Flu w resp manifest NEC,Influenza with other respiratory manifestations
+ICD_87343,6,0,0,Open wound of lip,"Open wound of lip, without mention of complication"
+ICD_6824,6,0,0,Cellulitis of hand,"Cellulitis and abscess of hand, except fingers and thumb"
+ICD_87342,6,0,0,Open wound of forehead,"Open wound of forehead, without mention of complication"
+ICD_43401,6,0,0,Crbl thrmbs w infrct,Cerebral thrombosis with cerebral infarction
+ICD_E8888,6,0,0,Fall NEC,Other fall
+ICD_V4561,6,2,3,Cataract extract status,Cataract extraction status
+ICD_4379,6,0,0,Cerebrovasc disease NOS,Unspecified cerebrovascular disease
+ICD_76523,6,5,5,25-26 comp wks gestation,25-26 completed weeks of gestation
+ICD_9693,6,1,1,Poison-antipsychotic NEC,"Poisoning by other antipsychotics, neuroleptics, and major tranquilizers"
+ICD_1830,6,2,2,Malign neopl ovary,Malignant neoplasm of ovary
+ICD_78951,6,2,2,Malignant ascites,Malignant ascites
+ICD_8024,6,2,2,Fx malar/maxillary-close,Closed fracture of malar and maxillary bones
+ICD_3361,6,0,0,Vascular myelopathies,Vascular myelopathies
+ICD_78093,6,1,1,Memory loss,Memory loss
+ICD_4822,6,0,0,H.influenzae pneumonia,Pneumonia due to Hemophilus influenzae [H. influenzae]
+ICD_34200,6,0,0,Flccd hmiplga unspf side,Flaccid hemiplegia and hemiparesis affecting unspecified side
+ICD_72252,6,1,1,Lumb/lumbosac disc degen,Degeneration of lumbar or lumbosacral intervertebral disc
+ICD_76516,6,6,7,Preterm NEC 1500-1749g,"Other preterm infants, 1,500-1,749 grams"
+ICD_8026,6,2,2,Fx orbital floor-closed,Closed fracture of orbital floor (blow-out)
+ICD_85200,6,1,1,Traum subarachnoid hem,"Subarachnoid hemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness"
+ICD_E8842,5,0,0,Fall from chair,Accidental fall from chair
+ICD_85222,5,1,1,Subdural hem-brief coma,"Subdural hemorrhage following injury without mention of open intracranial wound, with brief [less than one hour] loss of consciousness"
+ICD_4293,5,0,0,Cardiomegaly,Cardiomegaly
+ICD_1749,5,2,2,Malign neopl breast NOS,"Malignant neoplasm of breast (female), unspecified"
+ICD_7813,5,1,1,Lack of coordination,Lack of coordination
+ICD_76503,5,4,4,Extreme immatur 750-999g,"Extreme immaturity, 750-999 grams"
+ICD_E8147,5,2,2,Mv coll w pedest-pedest,Motor vehicle traffic accident involving collision with pedestrian injuring pedestrian
+ICD_85301,5,0,0,Brain hem NEC w/o coma,"Other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness"
+ICD_80702,5,0,0,Fracture two ribs-closed,Closed fracture of two ribs
+ICD_4619,5,0,0,Acute sinusitis NOS,"Acute sinusitis, unspecified"
+ICD_49120,5,0,0,Obst chr bronc w/o exac,Obstructive chronic bronchitis without exacerbation
+ICD_37272,5,0,0,Conjunctival hemorrhage,Conjunctival hemorrhage
+ICD_3313,5,0,0,Communicat hydrocephalus,Communicating hydrocephalus
+ICD_85206,5,0,0,Subarach hem-coma NOS,"Subarachnoid hemorrhage following injury without mention of open intracranial wound, with loss of consciousness of unspecified duration"
+ICD_80704,5,0,0,Fracture four ribs-close,Closed fracture of four ribs
+ICD_82009,5,0,0,Fx femur intrcaps NEC-cl,Other closed transcervical fracture of neck of femur
+ICD_56941,5,0,0,Rectal & anal ulcer,Ulcer of anus and rectum
+ICD_3501,5,3,4,Trigeminal neuralgia,Trigeminal neuralgia
+ICD_6000,5,3,3,,
+ICD_42983,5,1,1,Takotsubo syndrome,Takotsubo syndrome
+ICD_81000,5,2,2,Fx clavicle NOS-closed,"Closed fracture of clavicle, unspecified part"
+ICD_V721,5,2,2,,
+ICD_80705,5,1,1,Fracture five ribs-close,Closed fracture of five ribs
+ICD_29630,5,2,2,Recurr depr psychos-unsp,"Major depressive affective disorder, recurrent episode, unspecified"
+ICD_43331,5,0,0,Ocl mlt bi art w infrct,Occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction
+ICD_42091,5,0,0,Ac idiopath pericarditis,Acute idiopathic pericarditis
+ICD_6910,4,0,0,Diaper or napkin rash,Diaper or napkin rash
+ICD_75329,4,0,0,Obst def ren plv&urt NEC,Other obstructive defects of renal pelvis and ureter
+ICD_5225,4,1,1,Periapical abscess,Periapical abscess without sinus
+ICD_80507,4,1,1,Fx c7 vertebra-closed,Closed fracture of seventh cervical vertebra
+ICD_80501,4,0,0,Fx c1 vertebra-closed,Closed fracture of first cervical vertebra
+ICD_57491,4,0,0,Gall&bil cal w/o ch w ob,"Calculus of gallbladder and bile duct without cholecystitis, with obstruction"
+ICD_80505,4,0,0,Fx c5 vertebra-closed,Closed fracture of fifth cervical vertebra
+ICD_82300,4,0,0,Fx upper end tibia-close,Closed fracture of upper end of tibia alone
+ICD_80121,4,0,0,Cl skul base fx w/o coma,"Closed fracture of base of skull with subarachnoid, subdural, and extradural hemorrhage, with no loss of consciousness"
+ICD_E9600,4,0,0,Unarmed fight or brawl,Unarmed fight or brawl
+ICD_5181,4,0,0,Interstitial emphysema,Interstitial emphysema
+ICD_8028,4,0,0,Fx facial bone NEC-close,Closed fracture of other facial bones
+ICD_41021,4,0,0,"AMI inferolateral, init","Acute myocardial infarction of inferolateral wall, initial episode of care"
+ICD_E8150,4,0,0,Mv coll w oth obj-driver,Other motor vehicle traffic accident involving collision on the highway injuring driver of motor vehicle other than motorcycle
+ICD_85202,4,0,0,Subarach hem-brief coma,"Subarachnoid hemorrhage following injury without mention of open intracranial wound, with brief [less than one hour] loss of consciousness"
+ICD_2873,4,2,2,,
+ICD_9690,4,2,2,,
+ICD_82022,4,0,0,Subtrochanteric fx-close,Closed fracture of subtrochanteric section of neck of femur
+ICD_7473,4,0,0,,
+ICD_74602,4,0,0,Cong pulmon valve stenos,"Stenosis of pulmonary valve, congenital"
+ICD_85181,4,1,1,Brain lacer NEC w/o coma,"Other and unspecified cerebral laceration and contusion, without mention of open intracranial wound, with no loss of consciousness"
+ICD_47829,4,1,1,Disease of pharynx NEC,"Other diseases of pharynx, not elsewhere classified"
+ICD_9100,4,0,0,Abrasion head,"Abrasion or friction burn of face, neck, and scalp except eye, without mention of infection"
+ICD_7706,3,1,1,NB transitory tachypnea,Transitory tachypnea of newborn
+ICD_8082,3,0,0,Fracture of pubis-closed,Closed fracture of pubis
+ICD_E8261,3,2,2,Ped cycl acc-ped cyclist,Pedal cycle accident injuring pedal cyclist
+ICD_41031,3,0,0,"AMI inferopost, initial","Acute myocardial infarction of inferoposterior wall, initial episode of care"
+ICD_7716,3,1,1,Neonatal conjunctivitis,Neonatal conjunctivitis and dacryocystitis
+ICD_86804,3,0,0,Retroperitoneum inj-cl,"Injury to other intra-abdominal organs without mention of open wound into cavity, retroperitoneum"
+ICD_76719,3,3,3,Injuries to scalp NEC,Other injuries to scalp
+ICD_76502,3,3,3,Extreme immatur 500-749g,"Extreme immaturity, 500-749 grams"
+ICD_E8120,3,0,0,Mv collision NOS-driver,Other motor vehicle traffic accident involving collision with motor vehicle injuring driver of motor vehicle other than motorcycle
+ICD_8080,3,0,0,Fracture acetabulum-clos,Closed fracture of acetabulum
+ICD_75261,3,1,1,Hypospadias,Hypospadias
+ICD_75251,3,2,2,Undescended testis,Undescended testis
+ICD_E8160,3,0,0,Loss control mv acc-driv,"Motor vehicle traffic accident due to loss of control, without collision on the highway, injuring driver of motor vehicle other than motorcycle"
+ICD_74689,2,1,1,Cong heart anomaly NEC,Other specified congenital anomalies of heart
+ICD_E8504,2,0,0,Acc poison-arom analgesc,"Accidental poisoning by aromatic analgesics, not elsewhere classified"
+ICD_80122,2,0,0,Cl skul base fx/brf coma,"Closed fracture of base of skull with subarachnoid, subdural, and extradural hemorrhage, with brief [less than one hour] loss of consciousness"
+ICD_E8810,2,0,0,Fall from ladder,Accidental fall from ladder
+ICD_82101,2,0,0,Fx femur shaft-closed,Closed fracture of shaft of femur
+ICD_9587,2,0,0,Traum subcutan emphysema,Traumatic subcutaneous emphysema
+ICD_75733,2,1,1,Cong skin pigment anomal,Congenital pigmentary anomalies of skin
+ICD_80506,2,0,0,Fx c6 vertebra-closed,Closed fracture of sixth cervical vertebra
+ICD_82525,2,0,0,Fx metatarsal-closed,Closed fracture of metatarsal bone(s)
+ICD_7761,2,2,2,Neonatal thrombocytopen,Transient neonatal thrombocytopenia
+ICD_8604,2,0,0,Traum pneumohemothor-cl,Traumatic pneumohemothorax without mention of open wound into thorax
+ICD_77082,2,0,0,Other apnea of newborn,Other apnea of newborn
+ICD_9800,2,1,1,Toxic eff ethyl alcohol,Toxic effect of ethyl alcohol
+ICD_8248,2,0,0,Fx ankle NOS-closed,"Unspecified fracture of ankle, closed"
+ICD_7661,2,1,1,Heavy-for-date infan NEC,"Other ""heavy-for-dates"" infants"
+ICD_7708,2,2,2,,
+ICD_77211,2,0,0,"NB intraven hem,grade i","Intraventricular hemorrhage, grade I"
+ICD_7784,2,0,0,NB temp regulat dis NEC,Other disturbances of temperature regulation of newborn
+ICD_80703,2,0,0,Fracture three ribs-clos,Closed fracture of three ribs
+ICD_81100,2,0,0,Fx scapula NOS-closed,"Closed fracture of scapula, unspecified part"
+ICD_76519,2,2,2,Preterm NEC 2500+g,"Other preterm infants, 2,500 grams and over"
+ICD_E8162,2,0,0,Loss control mv-mocycl,"Motor vehicle traffic accident due to loss of control, without collision on the highway, injuring motorcyclist"
+ICD_81342,2,0,0,Fx distal radius NEC-cl,Other closed fractures of distal end of radius (alone)
+ICD_86405,2,0,0,Liver lacerat unspcf cls,"Injury to liver without mention of open wound into cavity laceration, unspecified"
+ICD_8600,2,0,0,Traum pneumothorax-close,Traumatic pneumothorax without mention of open wound into thorax
+ICD_80706,2,0,0,Fracture six ribs-closed,Closed fracture of six ribs
+ICD_8602,2,0,0,Traum hemothorax-closed,Traumatic hemothorax without mention of open wound into thorax
+ICD_80709,2,0,0,Fx mult ribs NOS-closed,"Closed fracture of multiple ribs, unspecified"
+ICD_6202,2,0,0,Ovarian cyst NEC/NOS,Other and unspecified ovarian cyst
+ICD_V293,1,0,0,NB obs genetc/metabl cnd,Observation for suspected genetic or metabolic condition
+ICD_8056,1,0,0,Fx sacrum/coccyx-closed,Closed fracture of sacrum and coccyx without mention of spinal cord injury
+ICD_80708,1,0,0,Fx eight/more rib-closed,Closed fracture of eight or more ribs
+ICD_V4588,1,0,0,TPA adm status 24 hr pta,Status post administration of tPA (rtPA) in a different facility within the last 24 hours prior to admission to current facility
+ICD_1505,1,0,0,Mal neo lower 3rd esoph,Malignant neoplasm of lower third of esophagus
+ICD_E9689,1,1,1,Assault NOS,Assault by unspecified means
+ICD_9584,1,0,0,Traumatic shock,Traumatic shock
+ICD_7757,1,0,0,Late metab acidosis NB,Late metabolic acidosis of newborn
+ICD_E8122,1,0,0,Mv collis NOS-motorcycl,Other motor vehicle traffic accident involving collision with motor vehicle injuring motorcyclist
+ICD_V202,1,1,1,Routin child health exam,Routine infant or child health check
+ICD_7717,1,0,0,Neonatal candida infect,Neonatal Candida infection
+ICD_80126,1,0,0,Cl skul base fx-coma NOS,"Closed fracture of base of skull with subarachnoid, subdural, and extradural hemorrhage, with loss of consciousness of unspecified duration"
+ICD_7424,1,0,0,Brain anomaly NEC,Other specified congenital anomalies of brain
+ICD_7702,1,1,1,NB interstit emphysema,Interstitial emphysema and related conditions
+ICD_E8121,1,0,0,Mv collision NOS-pasngr,Other motor vehicle traffic accident involving collision with motor vehicle injuring passenger in motor vehicle other than motorcycle
+ICD_87363,1,0,0,Broken tooth-uncomplic,"Open wound of tooth (broken) (fractured) (due to trauma), without mention of complication"
+ICD_7756,1,1,1,Neonatal hypoglycemia,Neonatal hypoglycemia
+ICD_E8495,1,0,0,Accid on street/highway,Street and highway accidents
+ICD_7750,1,1,1,Infant diabet mother syn,"Syndrome of ""infant of a diabetic mother"""
+ICD_E8230,1,0,0,Oth coll stndng obj-driv,Other motor vehicle nontraffic accident involving collision with stationary object injuring driver of motor vehicle other than motorcycle
+ICD_7786,1,0,0,Congenital hydrocele,Congenital hydrocele
+ICD_8074,1,0,0,Flail chest,Flail chest
+ICD_87344,1,0,0,Open wound of jaw,"Open wound of jaw, without mention of complication"

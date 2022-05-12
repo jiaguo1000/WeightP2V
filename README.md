@@ -1,1 +1,1 @@
-# WeightP2V
+# WeightP2V: a flexible risk prediction framework with patient representation weighted by medical concepts
